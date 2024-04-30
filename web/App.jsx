@@ -1,13 +1,13 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./index.css";
-import HomePage from "./pages/home/layout";
-import CulturesPage from "./pages/cultures/[culturesId]/layout";
-import ArsipPage from "./pages/arsip/layout";
-import Navbar from "./components/elements/Navbar";
-import Footer from "./components/elements/Footer";
-import KlasikPage from "./pages/klasik/layout";
-import BookPage from "./pages/book/[bookId]/layout";
-import SongPage from "./pages/song/[songId]/layout";
+import HomePage from "./src/pages/home/layout";
+import CulturesPage from "./src/pages/cultures/[culturesId]/layout";
+import ArsipPage from "./src/pages/arsip/layout";
+import Navbar from "./src/components/elements/Navbar";
+import Footer from "./src/components/elements/Footer";
+import KlasikPage from "./src/pages/klasik/layout";
+import BookPage from "./src/pages/book/[bookId]/layout";
+import SongPage from "./src/pages/song/[songId]/layout";
 
 function App() {
   return (
