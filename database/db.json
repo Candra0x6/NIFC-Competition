@@ -1,0 +1,2358 @@
+{
+  "cultures": [
+    {
+      "id": "a6d5",
+      "region": "Bali",
+      "region_image": "https://th.bing.com/th/id/OIP.eX8QMRR4iZtzA31WPXa39AHaE7?rs=1&pid=ImgDetMainss",
+      "region_description": "Bali, atau Pulau Dewata, adalah provinsi di Indonesia yang terkenal sebagai destinasi pariwisata. Pulau ini memiliki kekayaan seni dan budaya yang unik, dengan mayoritas penduduk menganut agama Hindu. Terkenal dengan pantai-pantai indahnya seperti Kuta dan Seminyak, serta kuil Hindu yang megah seperti Pura Besakih, Bali menawarkan pengalaman liburan yang tak terlupakan bagi wisatawan dari seluruh dunia.",
+      "art_image": [
+        {
+          "image": "http://1.bp.blogspot.com/-l-fVJn1sPIQ/Uev7YOobyJI/AAAAAAAAB5A/2OwScE_ENmc/s1600/Pendet.JPG",
+          "title": "Tari Pendet"
+        },
+        {
+          "image": "https://live.staticflickr.com/773/32205907361_cae09f463c.jpg",
+          "title": "Tari Kecak"
+        },
+        {
+          "image": "http://upload.wikimedia.org/wikipedia/commons/7/7e/Traditional_indonesian_instruments04.jpg",
+          "title": "Gamelan Bali"
+        },
+        {
+          "image": "https://tse2.mm.bing.net/th?id=OIP.zKsJEhGbyRW6NkfXXnUEpwHaFj&pid=Api&P=0&h=180",
+          "title": "Tari Barong"
+        },
+        {
+          "image": "https://live.staticflickr.com/3748/13683275054_5d087a7ab5_b.jpg",
+          "title": "Ogoh - Ogoh"
+        },
+        {
+          "image": "https://www.balipost.com/wp-content/uploads/2023/02/balipostcom_penutupan-bulan-bahasa-bali-v-akan-dimeriahkan-pementasan-drama-gong-lawas_01-696x464.jpg",
+          "title": "Drama Gong"
+        }
+      ],
+      "architecture": {
+        "title": "Patung Wisnu Kencana",
+        "image": "https://live.staticflickr.com/7908/40081772943_3c427b68ec.jpg",
+        "description": "Patung Wisnu Kencana adalah salah satu ikon terkenal di Bali yang menarik perhatian banyak wisatawan. Terletak di kawasan Garuda Wisnu Kencana (GWK) Cultural Park di Badung, Bali, patung ini adalah patung tunggal tertinggi di Indonesia dan salah satu yang tertinggi di dunia.Patung Wisnu Kencana menggambarkan Dewa Wisnu, salah satu dewa utama dalam agama Hindu, yang duduk di atas Garuda, burung mitologis yang menjadi tunggangannya."
+      },
+      "tradition": {
+        "title": "Nyepi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sanur_Beach.JPG/480px-Sanur_Beach.JPG",
+        "description": "Nyepi adalah hari raya agama Hindu yang dirayakan di Bali dan beberapa wilayah lain di Indonesia. Hari ini ditandai dengan kegiatan yang sangat berbeda dari hari-hari biasa, di mana umat Hindu melakukan meditasi, introspeksi, dan menahan diri dari segala aktivitas. Nyepi jatuh pada tanggal Tilem Kesanga, yang merupakan hari terakhir dalam tahun Saka, kalender Hindu.Salah satu aspek paling terkenal dari Nyepi adalah Catur Brata Penyepian, yang meliputi empat larangan utama: Amati Geni (tidak membuat api atau menggunakan listrik), Amati Karya (tidak bekerja atau melakukan aktivitas apapun), Amati Lelungan (tidak bepergian), dan Amati Lelanguan (menahan diri dari hiburan atau kesenangan). "
+      },
+      "culinary": [
+        {
+          "title": "Babi Gulig",
+          "image": "https://tse4.mm.bing.net/th?id=OIP.jaGiOVOA2_fZIR-XWgfDFQHaE7&pid=Api&P=0&h=180"
+        },
+        {
+          "title": "Bebek Betutu",
+          "image": "https://live.staticflickr.com/7167/6646761823_1eee1ec3d7_b.jpg"
+        },
+        {
+          "title": "Sate Lilit",
+          "image": "https://tse3.mm.bing.net/th?id=OIP.Em1GXDfFoNZy5ce8K31ZLQHaE7&pid=Api&P=0&h=180"
+        }
+      ]
+    },
+    {
+      "id": "667d",
+      "region": "Sumatera Utara",
+      "region_image": "https://th.bing.com/th/id/OIP.VWKaKG_1MsB2JISg-EoVwAHaDt?rs=1&pid=ImgDetMain",
+      "region_description": "Sumatera Utara adalah provinsi di Indonesia yang terletak di bagian utara Pulau Sumatera. Provinsi ini memiliki berbagai destinasi wisata, mulai dari danau hingga gunung. Salah satu destinasi wisata terkenal di Sumatera Utara adalah Danau Toba, yang merupakan danau vulkanik terbesar di dunia.",
+      "art_image": [
+        {
+          "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/bobofoto/original/1259_tari-serampang-dua-belas-foto-indonesianparadisenet.jpg",
+          "title": "Tari Serampang Dua Belas"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.Gt3mqQFct4ro88b_473RJAHaFs?rs=1&pid=ImgDetMain",
+          "title": "Tari Tor-Tor"
+        },
+        {
+          "image": "https://i0.wp.com/helloindonesia.id/wp-content/uploads/2019/01/a8711-o.jpg?w=800&ssl=1",
+          "title": "Gondang Batak"
+        },
+        {
+          "image": "https://live.staticflickr.com/4128/5068852161_9cd495a88e_b.jpg",
+          "title": "Tari Sigale-Gale"
+        },
+        {
+          "image": "https://www.indonesia.travel/content/dam/indtravelrevamp/en/news-events/news/the-batak-ulos-handwoven-textile/3f3fc9d17ef1519d0af770360d0ff8ef2dabf3f8-7265f.jpg",
+          "title": "Ulos Batak"
+        },
+        {
+          "image": "https://i1.wp.com/greatnesia.id/wp-content/uploads/2021/02/gondang-sabangunan.jpg?w=1392&ssl=1",
+          "title": "Drama Gondang Sabangunan"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Bolon",
+        "image": "https://th.bing.com/th/id/OIP.yMDDg8692PgFHOwldvbkswHaEo?rs=1&pid=ImgDetMain",
+        "description": "Rumah Bolon adalah rumah adat Batak Toba yang menjadi ikon Sumatera Utara. Rumah ini memiliki bentuk yang unik dengan atap yang melengkung seperti perahu terbalik. Rumah Bolon biasanya digunakan sebagai rumah tinggal oleh keluarga besar atau digunakan untuk upacara adat."
+      },
+      "tradition": {
+        "title": "Pesta Kaamatan",
+        "image": "https://sabahnites.com/wp-content/uploads/2022/01/PK-cover.jpg",
+        "description": "Pesta Kaamatan adalah upacara adat yang dilakukan oleh masyarakat Batak Karo di Sumatera Utara untuk merayakan panen raya. Upacara ini biasanya diadakan setiap tahun dan menjadi atraksi wisata budaya."
+      },
+      "culinary": [
+        {
+          "title": "Saksang",
+          "image": "https://th.bing.com/th/id/OIP.UGhvknB0Y2cnYpRyBtPoOQHaDO?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Arsik",
+          "image": "https://th.bing.com/th/id/OIP.q0EElP46f5LhHA_KpvGBtgHaD4?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Bika Ambon",
+          "image": "https://th.bing.com/th/id/OIP.t04-uVJYDn8dfuWMPy_uogHaEK?rs=1&pid=ImgDetMain"
+        }
+      ]
+    },
+    {
+      "id": "1679",
+      "region": "Jawa Tengah",
+      "region_image": "https://th.bing.com/th/id/OIP.f4NzCxbUaZx7JBUBxmlRQwHaCm?rs=1&pid=ImgDetMain",
+      "region_description": "Jawa Tengah adalah provinsi di Indonesia yang terletak di bagian tengah Pulau Jawa. Provinsi ini memiliki berbagai destinasi wisata, mulai dari pegunungan hingga pantai. Salah satu destinasi wisata terkenal di Jawa Tengah adalah Borobudur, yang merupakan candi Buddha terbesar di dunia.",
+      "art_image": [
+        {
+          "image": "https://c2.staticflickr.com/4/3097/3190572612_0b506a1b77_b.jpg",
+          "title": "Wayang Kulit"
+        },
+        {
+          "image": "https://fasnina.com/wp-content/uploads/2020/01/lasem-batik-art.jpg",
+          "title": "Batik Lasem"
+        },
+        {
+          "image": "https://4.bp.blogspot.com/-QWfbShU0d2Y/TefPc52L4_I/AAAAAAAAAog/3mxStu6AObg/s1600/DSC03986.JPG",
+          "title": "Keris Jawa"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.j2TNQQIG0CT9f1428BgxvQHaE6?w=487&h=323&rs=1&pid=ImgDetMain",
+          "title": "Tari Serimpi"
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Traditional_indonesian_instruments02.jpg/330px-Traditional_indonesian_instruments02.jpg",
+          "title": "Gamelan Jawa"
+        },
+        {
+          "image": "https://3.bp.blogspot.com/-x8e4X0QcXto/V3CrKuzAe9I/AAAAAAAAAC8/ecspvDS2sZ4lNiXrIUrIcXn9-N5YNkXIwCLcB/s1600/tari-bedhaya-raja-tanah-jawa.jpg",
+          "title": "Tari Bedhaya"
+        }
+      ],
+      "architecture": {
+        "title": "Candi Borobudur",
+        "image": "https://th.bing.com/th/id/R.a13335a4f50cc555bb6ef815ed08cc6b?rik=UPPs0%2fBm7qceGA&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f7%2f73%2fBorobudur_Temple.jpg&ehk=NKe6IQ2t9inoNhHm%2bTHLg%2fEmBHLIBr7SuiIX7TRdKOU%3d&risl=&pid=ImgRaw&r=0",
+        "description": "Candi Borobudur adalah candi Buddha terbesar di dunia yang menjadi ikon Jawa Tengah. Candi ini merupakan salah satu warisan budaya dunia yang diakui oleh UNESCO."
+      },
+      "tradition": {
+        "title": "Sedekah Bumi",
+        "image": "https://th.bing.com/th/id/OIP.D-2jZXr5ZvoDZdfRhrx3FAHaFj?rs=1&pid=ImgDetMain",
+        "description": "Sedekah Bumi adalah upacara adat yang dilakukan oleh masyarakat Jawa di Jawa Tengah untuk merayakan panen raya. Upacara ini biasanya diadakan setiap tahun dan menjadi atraksi wisata budaya."
+      },
+      "culinary": [
+        {
+          "title": "Gudeg",
+          "image": "https://www.masakapahariini.com/wp-content/uploads/2019/10/shutterstock_502495246.jpg"
+        },
+        {
+          "title": "Soto Kudus",
+          "image": "https://2.bp.blogspot.com/-MmuDOoHZRzs/V95_CXRIorI/AAAAAAAABB0/urV2n2TR33wcBvErNHvJWKoK8TTUhg0gACLcB/s1600/Soto%2Bkudus.jpg"
+        },
+        {
+          "title": "Nasi Liwet",
+          "image": "https://4.bp.blogspot.com/-tw-QTkx-zBI/VXCZWbNsUkI/AAAAAAAAAb4/o3vncD-nixw/s1600/nasi_liwet1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "c774",
+      "region": "Yogyakarta",
+      "region_image": "https://balistarisland.com/wp-content/uploads/2016/09/yogyakartacity1.jpg",
+      "region_description": "Yogyakarta, atau Daerah Istimewa Yogyakarta, adalah provinsi di Indonesia yang terletak di bagian tengah-selatan Pulau Jawa. Provinsi ini dikenal dengan kekayaan budaya dan sejarahnya, serta pendidikan dengan adanya berbagai universitas terkemuka. Salah satu destinasi wisata terkenal di Yogyakarta adalah Candi Prambanan dan Candi Borobudur, yang merupakan candi Hindu dan Buddha terbesar di dunia.",
+      "art_image": [
+        {
+          "image": "https://c2.staticflickr.com/4/3097/3190572612_0b506a1b77_b.jpg",
+          "title": "Wayang Kulit"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.N0BwtwcOOP-ZcXf3voyuVAHaFj?rs=1&pid=ImgDetMain",
+          "title": "Batik Yogyakarta"
+        },
+        {
+          "image": "https://4.bp.blogspot.com/-QWfbShU0d2Y/TefPc52L4_I/AAAAAAAAAog/3mxStu6AObg/s1600/DSC03986.JPG",
+          "title": "Keris Jawa"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.d7s9mUuhVAmE3L75eeKDRAAAAA?rs=1&pid=ImgDetMain",
+          "title": "Tari Serimpi"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.d7s9mUuhVAmE3L75eeKDRAAAAA?rs=1&pid=ImgDetMain",
+          "title": "Gamelan Jawa"
+        },
+        {
+          "image": "https://i2.wp.com/masbidin.net/wp-content/uploads/2016/10/Tarian-bedhaya-ketawang.png?resize=958%2C609",
+          "title": "Tari Bedhaya"
+        }
+      ],
+      "architecture": {
+        "title": "Keraton Yogyakarta",
+        "image": "https://th.bing.com/th/id/R.c4765873bba901ab5ccf881c33a0264f?rik=AlU4aW5wjxYwHA&riu=http%3a%2f%2fwww.justgoindonesia.com%2fwp-content%2fuploads%2f2018%2f04%2fkeraton-yogyakarta.jpg&ehk=RW2E%2fiQ49QMht3o%2bWS%2bG9848rpdzU5tL0OtVKXGgv4s%3d&risl=&pid=ImgRaw&r=0",
+        "description": "Keraton Yogyakarta adalah istana sultan yang menjadi ikon Yogyakarta. Istana ini merupakan pusat budaya Jawa, dengan berbagai koleksi seni dan peninggalan sejarah."
+      },
+      "tradition": {
+        "title": "Upacara Grebeg",
+        "image": "https://th.bing.com/th/id/OIP.KgLHsv5GUYjYsUvg6oRstQHaEP?rs=1&pid=ImgDetMain",
+        "description": "Grebeg adalah upacara adat yang dilakukan oleh Keraton Yogyakarta untuk merayakan hari-hari besar Islam. Upacara ini biasanya diadakan setiap tahun dan menjadi atraksi wisata budaya."
+      },
+      "culinary": [
+        {
+          "title": "Gudeg",
+          "image": "https://cdn-1.timesmedia.co.id/images/2022/12/21/gudeg-2.jpg"
+        },
+        {
+          "title": "Krecek",
+          "image": "https://img.okezone.com/content/2020/09/02/298/2271705/resep-sambal-goreng-krecek-khas-yogyakarta-qa2L0qKdku.jpg"
+        },
+        {
+          "title": "Geplak",
+          "image": "https://wisatakuliner.id/wp-content/uploads/2020/03/geplak-warna-warni-khas-Jogja.png"
+        }
+      ]
+    },
+    {
+      "id": "ee56",
+      "region": "Kalimantan Timur",
+      "region_image": "https://authentic-indonesia.com/wp-content/uploads/2019/10/travelling-to-derawan-1024x540.jpg",
+      "region_description": "Kalimantan Timur adalah provinsi di Indonesia yang terletak di bagian timur Pulau Kalimantan. Provinsi ini dikenal dengan kekayaan sumber daya alamnya, terutama batubara dan minyak bumi. Salah satu destinasi wisata terkenal di Kalimantan Timur adalah Kutai National Park, yang merupakan habitat orangutan dan berbagai spesies lainnya.",
+      "art_image": [
+        {
+          "image": "https://turisian.com/wp-content/uploads/2022/07/hudoq.jpg",
+          "title": "Tari Hudoq"
+        },
+        {
+          "image": "https://asset.kompas.com/crops/aWEJ8IfeJ8QrJ6Y2KBa10ZfpvbE=/0x29:676x480/780x390/data/photo/2021/02/04/601ba174d0831.jpg",
+          "title": "Tari Giring-Giring"
+        },
+        {
+          "image": "https://seringjalan.com/wp-content/uploads/2020/04/silontong.jpg",
+          "title": "Tari Enggang"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.3hdy6C-LnZuh8o0aWp9XfwHaES?rs=1&pid=ImgDetMain",
+          "title": "Tari Belian Bawo"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.PaebjQqRnSw1KpVVJhDg-gHaE7?rs=1&pid=ImgDetMain",
+          "title": "Tari Balian"
+        },
+        {
+          "image": "https://3.bp.blogspot.com/-whd_7_PHT7I/WdnS7DwJxtI/AAAAAAAAAbM/0ptjJz2IsCsc1JzlWJjxxJ2u0foin-0QQCLcBGAs/s1600/Baksa%2BKembang%2BDance%252C%2BTraditional%2BDance%2BFrom%2BSouth%2BKalimantan.jpg",
+          "title": "Tari Baksa Kembang"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Benuaq",
+        "image": "https://media.suara.com/pictures/970x544/2023/08/07/20494-rumah-lamin-ist.jpg",
+        "description": "Rumah Adat Benuaq adalah rumah adat Dayak Benuaq yang menjadi ikon Kalimantan Timur. Rumah ini memiliki bentuk yang unik dengan atap yang melengkung seperti perahu terbalik. Rumah Benuaq biasanya digunakan sebagai rumah tinggal oleh keluarga besar atau digunakan untuk upacara adat."
+      },
+      "tradition": {
+        "title": "Upacara Erau",
+        "image": "https://www.kutaikartanegara.com/newsphoto/Erau2014-mengulurnaga4.jpg",
+        "description": "Erau adalah upacara adat yang dilakukan oleh masyarakat Kutai di Kalimantan Timur untuk merayakan panen raya. Upacara ini biasanya diadakan setiap tahun dan menjadi atraksi wisata budaya."
+      },
+      "culinary": [
+        {
+          "title": "Soto Banjar",
+          "image": "https://th.bing.com/th/id/OIP.Gbp6xwwwQCJzHq6boj749AHaE9?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Amplang",
+          "image": "https://th.bing.com/th/id/OIP.HKNPn0CqgBd5_8naHCji5gHaEd?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Bingka",
+          "image": "https://th.bing.com/th/id/OIP.zo3jj4Sh248al-FxwfPR_AHaFj?rs=1&pid=ImgDetMain"
+        }
+      ]
+    },
+    {
+      "id": "1099",
+      "region": "Papua",
+      "region_image": "https://th.bing.com/th/id/OIP.v9If9Whg01NnF8PUV5RvvwHaEK?rs=1&pid=ImgDetMain",
+      "region_description": "Papua adalah provinsi di Indonesia yang terletak di bagian timur Pulau Papua. Provinsi ini dikenal dengan kekayaan alam dan budaya yang beragam, serta memiliki berbagai suku dan bahasa. Salah satu destinasi wisata terkenal di Papua adalah Lorentz National Park, yang merupakan taman nasional terbesar di Asia Tenggara dan menjadi rumah bagi berbagai spesies unik seperti burung cendrawasih.",
+      "art_image": [
+        {
+          "image": "https://1.bp.blogspot.com/-eDq9cOiJsaw/WdbfkJ-_KvI/AAAAAAAAATo/encga9aNyt4GSqYmOqSqhDUF8WJ2FP1BwCLcBGAs/s1600/Yospan%2BDance%252C%2BTraditional%2BDance%2BFrom%2BPapua.jpg",
+          "title": "Tari Yospan"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.YGrvXX4o8xiSuqTMZ7ZEHAFKC9?rs=1&pid=ImgDetMain",
+          "title": "Tari Tifa"
+        },
+        {
+          "image": "https://asset.kompas.com/crops/zjb7hDVllYdPoheBv-R6OTsQDF0=/0x1:446x298/750x500/data/photo/2021/03/08/604509bc1b1b3.jpeg",
+          "title": "Tari Suanggi"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.K_3j3GY4Usn_QqgjpMnIeAHaE8?rs=1&pid=ImgDetMain",
+          "title": "Tari Wor"
+        },
+        {
+          "image": "https://images.solopos.com/2022/08/PENURUNAN-BENDERA-4.jpg",
+          "title": "Tari Isosolo"
+        },
+        {
+          "image": "https://www.nesabamedia.com/wp-content/uploads/2019/10/Alat-Musik-Atowo-e1570764234232.jpg",
+          "title": "Tifa"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Honai",
+        "image": "https://www.romadecade.org/wp-content/uploads/2021/10/Rumah-Adat-Honai-Papua.jpg",
+        "description": "Rumah Adat Honai adalah rumah adat Papua yang menjadi ikon provinsi ini. Rumah ini memiliki bentuk yang unik dengan atap yang melengkung seperti perahu terbalik. Rumah Honai biasanya digunakan sebagai rumah tinggal oleh keluarga besar atau digunakan untuk upacara adat."
+      },
+      "tradition": {
+        "title": "Upacara Pesta Bakar Batu",
+        "image": "https://th.bing.com/th/id/OIP.FuHUBN2BGEtedmYQFoK1yAHaEK?rs=1&pid=ImgDetMain",
+        "description": "Pesta Bakar Batu adalah upacara adat yang dilakukan oleh masyarakat Papua untuk merayakan panen raya atau acara penting lainnya. Upacara ini biasanya diadakan setiap tahun dan menjadi atraksi wisata budaya."
+      },
+      "culinary": [
+        {
+          "title": "Papeda",
+          "image": "https://th.bing.com/th/id/R.f39add71d34dd3e6cbb00fea17c550ad?rik=CMkWkFyyACTj6g&riu=http%3a%2f%2fmakanan-indonesia.weebly.com%2fuploads%2f9%2f0%2f0%2f4%2f90046471%2fpapeda_orig.jpg&ehk=fRvB7FjZ5trPzWClubtkKCVP5QIC%2fo6QCWhLIrFjlfY%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+          "title": "Ikan Bakar Manokwari",
+          "image": "https://th.bing.com/th/id/R.f39add71d34dd3e6cbb00fea17c550ad?rik=CMkWkFyyACTj6g&riu=http%3a%2f%2fmakanan-indonesia.weebly.com%2fuploads%2f9%2f0%2f0%2f4%2f90046471%2fpapeda_orig.jpg&ehk=fRvB7FjZ5trPzWClubtkKCVP5QIC%2fo6QCWhLIrFjlfY%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+          "title": "Sagu",
+          "image": "https://th.bing.com/th/id/OIP.lOl6RUvIabFm9BqxhBUhGAHaFl?rs=1&pid=ImgDetMain"
+        }
+      ]
+    },
+    {
+      "id": "ae44",
+      "region": "Riau",
+      "region_image": "https://th.bing.com/th/id/OIP._sptkdIWiuvcEmHKe1GpZAEsCF?rs=1&pid=ImgDetMain",
+      "region_description": "Riau adalah provinsi di Indonesia yang terletak di bagian tengah Pulau Sumatera. Provinsi ini dikenal dengan kekayaan alam dan budaya Melayu, serta memiliki berbagai suku dan bahasa. Salah satu destinasi wisata terkenal di Riau adalah Taman Nasional Tesso Nilo, yang merupakan habitat gajah dan berbagai spesies lainnya.",
+      "art_image": [
+        {
+          "image": "https://3.bp.blogspot.com/-fE1UbNWxugM/WBgiS2nj6fI/AAAAAAAAByg/p973rswpsuMYwzP7U2XySzk9efhQvS-4wCLcB/s640/Tari%2BZapin%2Bberasal%2Bdari%2BRiau.jpg",
+          "title": "Tari Zapin"
+        },
+        {
+          "image": "https://www.selasar.com/wp-content/uploads/2020/10/penari-tari-persembahan.jpg",
+          "title": "Tari Persembahan"
+        },
+        {
+          "image": "https://pdbifiles.nos.jkt-1.neo.id/files/2018/05/15/oakirbin_TariSelampirDelapan.jpg",
+          "title": "Tari Selampit Delapan"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.mGAcxzzdBrZ5iIKKtraq1gHaE7?rs=1&pid=ImgDetMain",
+          "title": "Tari Melayu"
+        },
+        {
+          "image": "https://www.alatmusik.id/users_media/3/Alat%20Musik%20Riau%20Gendang%20Silat.jpg",
+          "title": "Gendang Silat"
+        },
+        {
+          "image": "https://www.alatmusik.id/users_media/3/Alat%20Musik%20Riau%20Gong.jpg",
+          "title": "Gong"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Selaso Jatuh Kembar",
+        "image": "https://1.bp.blogspot.com/-GIClEVvZ_Ic/V_Hz9k-OBDI/AAAAAAAABqY/qIKesHfWTIgmQtGJkHi1GUe82RcwFjg8wCLcB/s640/Rumah%2Badat%2BRiau%2BMelayu.JPG",
+        "description": "Rumah Adat Selaso Jatuh Kembar adalah rumah adat Melayu Riau yang menjadi ikon provinsi ini. Rumah ini memiliki bentuk yang unik dengan atap yang melengkung seperti perahu terbalik. Rumah Selaso Jatuh Kembar biasanya digunakan sebagai rumah tinggal oleh keluarga besar atau digunakan untuk upacara adat."
+      },
+      "tradition": {
+        "title": "Upacara Petang Megang",
+        "image": "https://th.bing.com/th/id/R.59dbf98fd8b9243d7b738eb0867e094b?rik=1QDmXLdKv7qt3Q&riu=http%3a%2f%2f4.bp.blogspot.com%2f_d9QTyyVjMnA%2fS8MpooK0Q4I%2fAAAAAAAAALs%2fZ5-Rd6uQ9Yc%2fs400%2f1.jpg&ehk=%2f36%2b%2bPewi%2fSBji82BmsyEODoXNNa47nfouyHCDsSyp8%3d&risl=&pid=ImgRaw&r=0",
+        "description": "Petang Megang adalah upacara adat yang dilakukan oleh masyarakat Melayu di Riau untuk merayakan panen raya atau acara penting lainnya. Upacara ini biasanya diadakan setiap tahun dan menjadi atraksi wisata budaya."
+      },
+      "culinary": [
+        {
+          "title": "Asam Pedas",
+          "image": "https://th.bing.com/th/id/OIP.hVbRlbsqMSl45WNVcGBvGQHaEk?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Gulai Ikan Patin",
+          "image": "https://th.bing.com/th/id/OIP.RCXPbF35wzyRxE3WpzNgVwHaE8?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Lempuk Durian",
+          "image": "https://awsimages.detik.net.id/community/media/visual/2023/06/13/lempuk-durian-makanan-khas-bengkalis-riau-raja-adil-siregardetiksumut_169.jpeg?w=700&q=90"
+        }
+      ]
+    },
+    {
+      "id": "0582",
+      "region": "Nusa Tenggara Barat",
+      "region_image": "https://ik.imagekit.io/tvlk/loc-asset/gNr3hLh55ZCkPJisyxFK-v9MmzxPu57ZRVI+10VZ2S4b1PNW4T++cbA6yK4gzhAhs9o2HLZ9vs7gy3rpcIU+oKi5EygzQLRjTUv7fRblEVA=/images/1507097441856-1200x600-FIT_AND_TRIM-0375b358c62da3bce5f84b603dd08b5c.jpeg?_src=imagekit&tr=dpr-3",
+      "region_description": "Nusa Tenggara Barat adalah provinsi di Indonesia yang terletak di bagian tengah Pulau Sumbawa dan Lombok. Provinsi ini dikenal dengan kekayaan alam dan budaya Sasak, serta memiliki berbagai suku dan bahasa. Salah satu destinasi wisata terkenal di Nusa Tenggara Barat adalah Gunung Rinjani, yang merupakan gunung tertinggi kedua di Indonesia.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Gendang Beleq"
+        },
+        {
+          "image": "url",
+          "title": "Tari Rudat"
+        },
+        {
+          "image": "url",
+          "title": "Tari Peresean"
+        },
+        {
+          "image": "url",
+          "title": "Tari Ampyang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Bedaya"
+        },
+        {
+          "image": "url",
+          "title": "Tari Cilokaq"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Bayan",
+        "image": "",
+        "description": "Rumah Adat Bayan adalah rumah adat Sasak yang menjadi ikon Nusa Tenggara Barat. Rumah ini memiliki bentuk yang unik dengan atap yang melengkung seperti perahu terbalik. Rumah Bayan biasanya digunakan sebagai rumah tinggal oleh keluarga besar atau digunakan untuk upacara adat."
+      },
+      "tradition": {
+        "title": "Upacara Bau Nyale",
+        "image": "",
+        "description": "Bau Nyale adalah upacara adat yang dilakukan oleh masyarakat Sasak di Nusa Tenggara Barat untuk merayakan musim panen atau acara penting lainnya. Upacara ini biasanya diadakan setiap tahun dan menjadi atraksi wisata budaya."
+      },
+      "culinary": [
+        {
+          "title": "Ayam Taliwang",
+          "image": ""
+        },
+        {
+          "title": "Sate Bulayak",
+          "image": ".."
+        },
+        {
+          "title": "Plecing Kangkung",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "2ba6",
+      "region": "Maluku",
+      "region_description": "Maluku adalah provinsi di Indonesia yang terletak di bagian timur Pulau Maluku. Provinsi ini dikenal dengan kekayaan alam dan budaya Moluccas, serta memiliki berbagai suku dan bahasa. Salah satu destinasi wisata terkenal di Maluku adalah Taman Nasional Manusela, yang merupakan habitat burung cendrawasih dan berbagai spesies lainnya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Cakalele"
+        },
+        {
+          "image": "url",
+          "title": "Tari Lenso"
+        },
+        {
+          "image": "url",
+          "title": "Tari Piring"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tifa"
+        },
+        {
+          "image": "url",
+          "title": "Tari Katreji"
+        },
+        {
+          "image": "url",
+          "title": "Tari Polopalo"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Baileo",
+        "image": "",
+        "description": "Rumah Adat Baileo adalah rumah adat Maluku yang menjadi ikon provinsi ini. Rumah ini memiliki bentuk yang unik dengan atap yang melengkung seperti perahu terbalik. Rumah Baileo biasanya digunakan sebagai rumah tinggal oleh keluarga besar atau digunakan untuk upacara adat."
+      },
+      "tradition": {
+        "title": "Upacara Pesta Laut",
+        "image": "",
+        "description": "Pesta Laut adalah upacara adat yang dilakukan oleh masyarakat Maluku untuk merayakan panen raya atau acara penting lainnya. Upacara ini biasanya diadakan setiap tahun dan menjadi atraksi wisata budaya."
+      },
+      "culinary": [
+        {
+          "title": "Papeda",
+          "image": ""
+        },
+        {
+          "title": "Ikan Kuah Kuning",
+          "image": ".."
+        },
+        {
+          "title": "Sago Lempeng",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "921b",
+      "region": "Banten",
+      "region_description": "Banten adalah provinsi di Indonesia yang terletak di bagian barat Pulau Jawa. Provinsi ini dikenal dengan kekayaan alam dan budaya Baduy, serta memiliki berbagai suku dan bahasa. Salah satu destinasi wisata terkenal di Banten adalah Taman Nasional Ujung Kulon, yang merupakan habitat badak Jawa dan berbagai spesies lainnya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Topeng"
+        },
+        {
+          "image": "url",
+          "title": "Tari Ronggeng"
+        },
+        {
+          "image": "url",
+          "title": "Tari Debus"
+        },
+        {
+          "image": "url",
+          "title": "Tari Cokek"
+        },
+        {
+          "image": "url",
+          "title": "Tari Dogdog Lojor"
+        },
+        {
+          "image": "url",
+          "title": "Tari Rampak Bedug"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Kanekes",
+        "image": "",
+        "description": "Rumah Adat Kanekes adalah rumah adat Baduy yang menjadi ikon Banten. Rumah ini memiliki bentuk yang unik dengan atap yang melengkung seperti perahu terbalik. Rumah Kanekes biasanya digunakan sebagai rumah tinggal oleh keluarga besar atau digunakan untuk upacara adat."
+      },
+      "tradition": {
+        "title": "Upacara Seba",
+        "image": "",
+        "description": "Seba adalah upacara adat yang dilakukan oleh masyarakat Baduy di Banten untuk merayakan panen raya atau acara penting lainnya. Upacara ini biasanya diadakan setiap tahun dan menjadi atraksi wisata budaya."
+      },
+      "culinary": [
+        {
+          "title": "Sate Bandeng",
+          "image": ""
+        },
+        {
+          "title": "Kerupuk Gendar",
+          "image": ".."
+        },
+        {
+          "title": "Dodol Garut",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "6e5b",
+      "region": "Sumatera Selatan",
+      "region_description": "Sumatera Selatan adalah provinsi di Indonesia yang terletak di bagian selatan Pulau Sumatera. Provinsi ini dikenal dengan kekayaan alam dan budaya Melayu, serta memiliki berbagai suku dan bahasa. Salah satu destinasi wisata terkenal di Sumatera Selatan adalah Taman Nasional Bukit Duabelas, yang merupakan habitat orangutan dan berbagai spesies lainnya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Gending Sriwijaya"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tanggai"
+        },
+        {
+          "image": "url",
+          "title": "Tari Bedana"
+        },
+        {
+          "image": "url",
+          "title": "Tari Persembahan"
+        },
+        {
+          "image": "url",
+          "title": "Tari Kipas"
+        },
+        {
+          "image": "url",
+          "title": "Tari Pagar Pengantin"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Limas",
+        "image": "",
+        "description": "Rumah Adat Limas adalah rumah adat Melayu Palembang yang menjadi ikon Sumatera Selatan. Rumah ini memiliki bentuk yang unik dengan atap yang melengkung seperti perahu terbalik. Rumah Limas biasanya digunakan sebagai rumah tinggal oleh keluarga besar atau digunakan untuk upacara adat."
+      },
+      "tradition": {
+        "title": "Upacara Sedekah Laut",
+        "image": "",
+        "description": "Sedekah Laut adalah upacara adat yang dilakukan oleh masyarakat Melayu di Sumatera Selatan untuk merayakan panen raya atau acara penting lainnya. Upacara ini biasanya diadakan setiap tahun dan menjadi atraksi wisata budaya."
+      },
+      "culinary": [
+        {
+          "title": "Pempek",
+          "image": ""
+        },
+        {
+          "title": "Tekwan",
+          "image": ".."
+        },
+        {
+          "title": "Model",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "baf3",
+      "region": "Aceh",
+      "region_description": "Aceh adalah provinsi di ujung barat Pulau Sumatera, Indonesia. Provinsi ini terkenal dengan sejarah, budaya, dan keindahan alamnya yang menakjubkan. Aceh juga dikenal sebagai daerah yang kaya dengan hasil laut dan warisan budaya Islam yang kuat.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Ratoh Duek"
+        },
+        {
+          "image": "url",
+          "title": "Tari Seudati"
+        },
+        {
+          "image": "url",
+          "title": "Tari Saman"
+        },
+        {
+          "image": "url",
+          "title": "Tari Likok Pulo"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tarek Pukat"
+        },
+        {
+          "image": "url",
+          "title": "Tari Seuke"
+        }
+      ],
+      "architecture": {
+        "title": "Rumoh Aceh",
+        "image": "",
+        "description": "Rumoh Aceh adalah rumah tradisional Aceh yang biasanya terbuat dari kayu dan beratapkan ijuk atau seng. Rumah ini memiliki ciri khas yang unik dengan desain yang menghadap ke arah matahari terbit. Rumoh Aceh sering digunakan untuk acara adat atau sebagai tempat tinggal."
+      },
+      "tradition": {
+        "title": "Meugang",
+        "image": "",
+        "description": "Meugang adalah tradisi masyarakat Aceh dalam memotong hewan ternak untuk disantap bersama keluarga atau dalam acara adat tertentu. Tradisi ini biasanya dilakukan pada bulan Ramadan dan menjadi bagian penting dari budaya Aceh."
+      },
+      "culinary": [
+        {
+          "title": "Nasi Gurih Aceh",
+          "image": ""
+        },
+        {
+          "title": "Mie Aceh",
+          "image": ""
+        },
+        {
+          "title": "Kuah Beulangong",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "0f97",
+      "region": "Kalimantan Barat",
+      "region_image": "https://th.bing.com/th/id/OIP.6FXDzZDe1vw-Qt9U1ZDkFAHaD1?rs=1&pid=ImgDetMain",
+      "region_description": "Kalimantan Barat adalah provinsi di Pulau Kalimantan, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi hutan hujan tropis, sungai, dan keanekaragaman hayati.",
+      "art_image": [
+        {
+          "image": "https://mundomaya.travel/wp-content/uploads/2021/07/tari-piring.jpg",
+          "title": "Tari Piring"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.SrPmGKyRydE0XXVaERMkdQHaDn?rs=1&pid=ImgDetMain",
+          "title": "Tari Mandau"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.qUHNlSYIfrv4HzsL933wVQHaD4?rs=1&pid=ImgDetMain",
+          "title": "Tari Enggang"
+        },
+        {
+          "image": "https://seringjalan.com/wp-content/uploads/2020/04/gong.jpg",
+          "title": "Tari Kancet Ledo"
+        },
+        {
+          "image": "https://gencil.news/wp-content/uploads/2022/03/tarian.gif",
+          "title": "Tari Ajat Kemenyan"
+        },
+        {
+          "image": "https://seringjalan.com/wp-content/uploads/2020/05/tari-baksa-kembang-ok-768x512.jpg",
+          "title": "Tari Baksa Kembang"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Betang",
+        "image": "https://th.bing.com/th/id/OIP.yhSdXYIR7tGC2JF1ETS5bgHaE7?rs=1&pid=ImgDetMain",
+        "description": "Rumah Betang adalah rumah tradisional suku Dayak di Kalimantan Barat. Rumah ini memiliki struktur panjang dengan atap melengkung, terbuat dari kayu ulin atau kayu keras lainnya. Rumah Betang biasanya digunakan sebagai tempat tinggal dan pusat kegiatan komunitas."
+      },
+      "tradition": {
+        "title": "Naik Dango",
+        "image": "https://www.amazingborneo.id/wp-content/uploads/2021/03/Naik-Dango-Kabupaten-Landak2.jpg",
+        "description": "Naik Dango adalah tradisi yang dilakukan oleh suku Dayak Kanayatn di Kalimantan Barat setelah masa panen1. Tradisi ini dilaksanakan setahun sekali tiap tanggal 27 April yang bertempat di rumah betang, rumah adat khas Suku Dayak. Asal-usul Naik Dango1: Upacara adat Naik Dango berasal dari mitos di kalangan orang Dayak Kanayatn. Mitos tersebut bercerita mengenai asal mula tanaman padi yang berasal dari setangkai padi milik Jubata di gunung bawang. Suatu hari, setangkai padi milik Jubata dicuri seekor burung pipit dan jatuh ke tangan Ne Jaek yang saat itu sedang mengayau."
+      },
+      "culinary": [
+        {
+          "title": "Soto Banjar",
+          "image": "https://th.bing.com/th/id/R.19ba7ac70c304022731eae9ba23ef8f4?rik=UIyz1GXMUs8kQA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-3TgL-j8ia4E%2fVEdkdSj7O9I%2fAAAAAAAAARc%2fqAmYiX_0CfM%2fs1600%2fSoto_Banjar_Bang_Amat.jpg&ehk=qZRGhblLY0IpHn5egl2icNqTjDRPbD1HKbKZIrJZtwo%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+          "title": "Sate Manis",
+          "image": "https://th.bing.com/th/id/OIP.awY-Os7wLy_V5932gRGJkwHaEc?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Rendang Kalimantan",
+          "image": "https://th.bing.com/th/id/OIP.Eszecv9kCYK5psrNqYrLvAHaEK?rs=1&pid=ImgDetMain"
+        }
+      ]
+    },
+    {
+      "id": "126e",
+      "region": "Sulawesi Selatan",
+      "region_description": "Sulawesi Selatan adalah provinsi di Pulau Sulawesi, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi pantai berpasir putih, pegunungan, dan beragam budaya etnis.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Pakarena"
+        },
+        {
+          "image": "url",
+          "title": "Tari Saman"
+        },
+        {
+          "image": "url",
+          "title": "Tari Ma'gellu"
+        },
+        {
+          "image": "url",
+          "title": "Tari Mappadendang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Pangngai"
+        },
+        {
+          "image": "url",
+          "title": "Tari Padduppa"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Bugis",
+        "image": "",
+        "description": "Rumah Adat Bugis adalah rumah tradisional suku Bugis di Sulawesi Selatan. Rumah ini terbuat dari kayu dengan atap melengkung yang dihiasi oleh ukiran-ukiran indah. Rumah Adat Bugis biasanya digunakan sebagai tempat tinggal dan untuk menyelenggarakan acara adat."
+      },
+      "tradition": {
+        "title": "Ritual Ma'randing",
+        "image": "",
+        "description": "Ritual Ma'randing adalah tradisi unik suku Bugis di Sulawesi Selatan yang melibatkan pertarungan antara dua ekor sapi. Ritual ini merupakan bagian dari acara adat yang dilakukan untuk merayakan keberhasilan atau memperkuat hubungan antar keluarga atau desa."
+      },
+      "culinary": [
+        {
+          "title": "Coto Makassar",
+          "image": ""
+        },
+        {
+          "title": "Konro",
+          "image": ""
+        },
+        {
+          "title": "Pallubasa",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "ee7f",
+      "region": "Jawa Timur",
+      "region_image": "https://th.bing.com/th/id/OIP.Y-Y9R24_OU4N3lXWqoHNxgHaEK?rs=1&pid=ImgDetMain",
+      "region_description": "Jawa Timur adalah provinsi di Pulau Jawa, Indonesia. Provinsi ini terkenal dengan kekayaan budaya, sejarah, dan alamnya yang indah. Jawa Timur juga dikenal sebagai pusat seni dan budaya di Indonesia.",
+      "art_image": [
+        {
+          "image": "https://th.bing.com/th/id/R.06d0e4d0dc0e1ee8d7358213ae2a8a09?rik=Hf5Z2PRObKii8w&riu=http%3a%2f%2fbackpackerjakarta.com%2fwp-content%2fuploads%2f2017%2f03%2freog-ponorogo.jpg&ehk=tR6Lm9Q4z37FaEyfu7wudX5tx8ZDuXn7%2fq9tCdiX1gM%3d&risl=&pid=ImgRaw&r=0",
+          "title": "Tari Reog Ponorogo"
+        },
+        {
+          "image": "https://www.inspired2write.com/wp-content/uploads/2020/06/Komposisi-Tarian-Remo.jpg",
+          "title": "Tari Remo"
+        },
+        {
+          "image": "https://cdnaz.cekaja.com/media/2020/05/Wayang-Topeng-Malang-Intip-6-Daftar-Kesenian-Tradisional-Khas-Jawa-Timur.jpg",
+          "title": "Wayang Timplong"
+        },
+        {
+          "image": "https://cdnaz.cekaja.com/media/2020/05/Ludruk-Intip-6-Daftar-Kesenian-Tradisional-Khas-Jawa-Timur.jpg",
+          "title": "Ludruk"
+        },
+        {
+          "image": "https://cdnaz.cekaja.com/media/2020/05/Tari-Glipang-Intip-6-Daftar-Kesenian-Tradisional-Khas-Jawa-Timur.jpg",
+          "title": "Tari Glipang"
+        },
+        {
+          "image": "https://cdnaz.cekaja.com/media/2020/05/Caping-Ngancak-Intip-6-Daftar-Kesenian-Tradisional-Khas-Jawa-Timur.jpg",
+          "title": "Tari Caping Ngancak"
+        }
+      ],
+      "architecture": {
+        "title": "Candi Penataran",
+        "image": "https://th.bing.com/th/id/OIP.S9pYMaj3-dwPqkccYBNiMQHaE8?rs=1&pid=ImgDetMain",
+        "description": "Candi Pena  taran adalah kompleks candi Hindu yang terletak di Kabupaten Blitar, Jawa Timur. Candi ini merupakan salah satu peninggalan sejarah yang penting di Jawa Timur dan sering menjadi tujuan wisata budaya."
+      },
+      "tradition": {
+        "title": "Upacara Labuhan",
+        "image": "https://cdn.timesmedia.co.id/images/2018/11/18/Upacara-Adat-Labuhan-Ngliyep-budayajawa.jpg",
+        "description": "Upacara Labuhan adalah upacara adat masyarakat Jawa Timur yang dilakukan sebagai ungkapan rasa syukur dan memohon keselamatan kepada Sang Hyang Widhi. Upacara ini sering dilakukan di pantai atau tempat-tempat suci lainnya."
+      },
+      "culinary": [
+        {
+          "title": "Rawon",
+          "image": "https://th.bing.com/th/id/OIP.dzwsN20QutPC-kGca73OOQHaF0?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Soto Lamongan",
+          "image": "https://th.bing.com/th/id/OIP.yBXaURTEdMhpck0yUe5mewHaD4?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Lontong Balap",
+          "image": "https://th.bing.com/th/id/OIP.SQp8wV5Oz70zQF_l_JfHjgHaE7?rs=1&pid=ImgDetMain"
+        }
+      ]
+    },
+    {
+      "id": "f848",
+      "region": "Sulawesi Utara",
+      "region_description": "Sulawesi Utara adalah provinsi di Pulau Sulawesi, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi pegunungan, danau-danau, dan taman laut yang indah.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Kabasaran"
+        },
+        {
+          "image": "url",
+          "title": "Tari Maengket"
+        },
+        {
+          "image": "url",
+          "title": "Tari Likurai"
+        },
+        {
+          "image": "url",
+          "title": "Tari Cakalele"
+        },
+        {
+          "image": "url",
+          "title": "Tari Kolintang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tinondor"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Minahasa",
+        "image": "",
+        "description": "Rumah Adat Minahasa adalah rumah tradisional suku Minahasa di Sulawesi Utara. Rumah ini terbuat dari kayu dengan atap melengkung tinggi. Rumah Adat Minahasa sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan acara adat."
+      },
+      "tradition": {
+        "title": "Maengket Festival",
+        "image": "",
+        "description": "Maengket Festival adalah festival budaya yang diselenggarakan oleh masyarakat Minahasa di Sulawesi Utara. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan kebudayaan Minahasa."
+      },
+      "culinary": [
+        {
+          "title": "Bubur Manado",
+          "image": ""
+        },
+        {
+          "title": "Cakalang Fufu",
+          "image": ""
+        },
+        {
+          "title": "Paniki",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "2ae4",
+      "region": "Kalimantan Timur",
+      "region_description": "Kalimantan Timur adalah provinsi di Pulau Kalimantan, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi hutan hujan tropis, sungai besar, dan keanekaragaman hayati yang kaya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Enggang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Adai-Adai"
+        },
+        {
+          "image": "url",
+          "title": "Tari Bungai Layang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Manasai"
+        },
+        {
+          "image": "url",
+          "title": "Tari Enggang Panjang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Jogang"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Kutai",
+        "image": "",
+        "description": "Rumah Adat Kutai adalah rumah tradisional suku Kutai di Kalimantan Timur. Rumah ini terbuat dari kayu dengan atap melengkung tinggi. Rumah Adat Kutai sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan acara adat."
+      },
+      "tradition": {
+        "title": "Festival Budaya Tenggarong",
+        "image": "",
+        "description": "Festival Budaya Tenggarong adalah festival tahunan yang diselenggarakan di Kota Tenggarong, Kalimantan Timur. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan kekayaan budaya suku Kutai."
+      },
+      "culinary": [
+        {
+          "title": "Ikan Bakar Kenyalang",
+          "image": ""
+        },
+        {
+          "title": "Nasi Kerabu",
+          "image": ""
+        },
+        {
+          "title": "Papeda Kuah Santan",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "bd4f",
+      "region": "Banten",
+      "region_description": "Banten adalah provinsi di Pulau Jawa, Indonesia. Provinsi ini memiliki sejarah panjang sebagai pusat kerajaan Islam di Indonesia dan terkenal dengan peninggalan-peninggalan sejarahnya yang megah.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Serimpi"
+        },
+        {
+          "image": "url",
+          "title": "Tari Jaipong"
+        },
+        {
+          "image": "url",
+          "title": "Tari Dodogeran"
+        },
+        {
+          "image": "url",
+          "title": "Tari Kembang Tanjung"
+        },
+        {
+          "image": "url",
+          "title": "Tari Merak Cibinong"
+        },
+        {
+          "image": "url",
+          "title": "Tari Terebang"
+        }
+      ],
+      "architecture": {
+        "title": "Keraton Kaibon",
+        "image": "",
+        "description": "Keraton Kaibon adalah keraton yang terletak di Serang, Banten. Keraton ini merupakan salah satu peninggalan sejarah penting di Banten dan sering menjadi tujuan wisata sejarah."
+      },
+      "tradition": {
+        "title": "Upacara Seren Taun",
+        "image": "",
+        "description": "Upacara Seren Taun adalah upacara adat masyarakat Banten yang dilakukan sebagai ungkapan rasa syukur atas hasil panen. Upacara ini biasanya dilakukan setiap kali musim panen tiba dan menjadi bagian penting dari budaya Banten."
+      },
+      "culinary": [
+        {
+          "title": "Soto Betawi",
+          "image": ""
+        },
+        {
+          "title": "Kue Rangi",
+          "image": ""
+        },
+        {
+          "title": "Rujak Serut",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "30b7",
+      "region": "Papua Barat",
+      "region_description": "Papua Barat adalah provinsi di bagian barat Pulau Papua, Indonesia. Provinsi ini terkenal dengan keindahan alamnya yang meliputi pegunungan, hutan hujan tropis, dan keanekaragaman budaya suku-suku asli Papua.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Bakar Batu"
+        },
+        {
+          "image": "url",
+          "title": "Tari Kain Poleng"
+        },
+        {
+          "image": "url",
+          "title": "Tari Yospan"
+        },
+        {
+          "image": "url",
+          "title": "Tari Kowar"
+        },
+        {
+          "image": "url",
+          "title": "Tari Sabang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Woleai"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Honai",
+        "image": "",
+        "description": "Rumah Honai adalah rumah tradisional suku Asmat di Papua Barat. Rumah ini biasanya terbuat dari anyaman daun rumbia dengan bentuk bulat seperti kubah. Rumah Honai menjadi simbol kebudayaan Asmat dan sering digunakan sebagai tempat tinggal atau untuk upacara adat."
+      },
+      "tradition": {
+        "title": "Festival Lembah Baliem",
+        "image": "",
+        "description": "Festival Lembah Baliem adalah festival budaya yang diselenggarakan setiap tahun di Lembah Baliem, Papua Barat. Festival ini menghadirkan pertunjukan seni dan budaya suku-suku Asmat, Dani, dan Lani serta menjadi ajang untuk mempromosikan kekayaan budaya Papua."
+      },
+      "culinary": [
+        {
+          "title": "Papeda",
+          "image": ""
+        },
+        {
+          "title": "Ikan Kuah Kuning",
+          "image": ""
+        },
+        {
+          "title": "Papeda Ikan Tongkol",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "348c",
+      "region": "Sulawesi Tengah",
+      "region_description": "Sulawesi Tengah adalah provinsi di Pulau Sulawesi, Indonesia. Provinsi ini memiliki kekayaan alam yang meliputi gunung, danau, dan taman nasional yang indah.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Pakarena"
+        },
+        {
+          "image": "url",
+          "title": "Tari Lariangi"
+        },
+        {
+          "image": "url",
+          "title": "Tari Kancet Ledo"
+        },
+        {
+          "image": "url",
+          "title": "Tari Pario"
+        },
+        {
+          "image": "url",
+          "title": "Tari Manari"
+        },
+        {
+          "image": "url",
+          "title": "Tari Dero"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Toraja",
+        "image": "",
+        "description": "Rumah Adat Toraja adalah rumah tradisional suku Toraja di Sulawesi Tengah. Rumah ini memiliki atap melengkung tinggi dengan ukiran-ukiran indah di bagian atasnya. Rumah Adat Toraja sering digunakan untuk acara adat dan upacara keagamaan."
+      },
+      "tradition": {
+        "title": "Rambu Solo",
+        "image": "",
+        "description": "Rambu Solo adalah upacara pemakaman tradisional suku Toraja di Sulawesi Tengah. Upacara ini merupakan bagian penting dari budaya Toraja dan sering dilakukan dengan penuh khidmat serta adat istiadat yang khas."
+      },
+      "culinary": [
+        {
+          "title": "Pallubasa",
+          "image": ""
+        },
+        {
+          "title": "Mie Kering",
+          "image": ""
+        },
+        {
+          "title": "Konro Bakar",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "6178",
+      "region": "Sumatera Barat",
+      "region_description": "Sumatera Barat adalah provinsi di Pulau Sumatera, Indonesia. Provinsi ini terkenal dengan keindahan alamnya yang meliputi pegunungan, danau, dan budaya Minangkabau yang kaya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Piring"
+        },
+        {
+          "image": "url",
+          "title": "Tari Randai"
+        },
+        {
+          "image": "url",
+          "title": "Tari Saluang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Silek"
+        },
+        {
+          "image": "url",
+          "title": "Tari Pasambahan"
+        },
+        {
+          "image": "url",
+          "title": "Tari Indang"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Gadang",
+        "image": "",
+        "description": "Rumah Gadang adalah rumah tradisional suku Minangkabau di Sumatera Barat. Rumah ini memiliki atap tumpang dengan bentuk melengkung dan ukiran-ukiran indah di bagian atapnya. Rumah Gadang sering digunakan untuk acara adat dan sebagai tempat tinggal."
+      },
+      "tradition": {
+        "title": "Pacu Jawi",
+        "image": "",
+        "description": "Pacu Jawi adalah tradisi balap kerbau yang dilakukan oleh masyarakat Minangkabau di Sumatera Barat. Tradisi ini biasanya dilakukan sebagai ajang hiburan dan untuk memperingati hari besar tertentu."
+      },
+      "culinary": [
+        {
+          "title": "Rendang",
+          "image": ""
+        },
+        {
+          "title": "Gulai",
+          "image": ""
+        },
+        {
+          "title": "Sate Padang",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "aea3",
+      "region": "Sulawesi Tenggara",
+      "region_description": "Sulawesi Tenggara adalah provinsi di Pulau Sulawesi, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi taman nasional, pantai-pantai indah, dan beragam budaya suku.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Pakarena"
+        },
+        {
+          "image": "url",
+          "title": "Tari Lariangi"
+        },
+        {
+          "image": "url",
+          "title": "Tari Kancet Ledo"
+        },
+        {
+          "image": "url",
+          "title": "Tari Pario"
+        },
+        {
+          "image": "url",
+          "title": "Tari Manari"
+        },
+        {
+          "image": "url",
+          "title": "Tari Dero"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Muna",
+        "image": "",
+        "description": "Rumah Adat Muna adalah rumah tradisional suku Muna di Sulawesi Tenggara. Rumah ini terbuat dari kayu dengan atap melengkung tinggi. Rumah Adat Muna sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan acara adat."
+      },
+      "tradition": {
+        "title": "Festival Karia",
+        "image": "",
+        "description": "Festival Karia adalah festival budaya tahunan yang diselenggarakan oleh masyarakat Muna di Sulawesi Tenggara. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan kebudayaan Muna."
+      },
+      "culinary": [
+        {
+          "title": "Wajik Ketan",
+          "image": ""
+        },
+        {
+          "title": "Gogos",
+          "image": ""
+        },
+        {
+          "title": "Sup Konro",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "762e",
+      "region": "Bangka Belitung",
+      "region_description": "Bangka Belitung adalah provinsi di Indonesia yang terletak di wilayah kepulauan Bangka dan Belitung. Provinsi ini terkenal dengan keindahan pantainya yang eksotis, serta tambang timah yang menjadi salah satu sumber ekonomi utama.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Makan Sirih"
+        },
+        {
+          "image": "url",
+          "title": "Tari Sadam"
+        },
+        {
+          "image": "url",
+          "title": "Tari Gethek"
+        },
+        {
+          "image": "url",
+          "title": "Tari Kenduren"
+        },
+        {
+          "image": "url",
+          "title": "Tari Timang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Dabus"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Panggung Belitung",
+        "image": "",
+        "description": "Rumah Panggung Belitung adalah rumah tradisional suku Belitung di Bangka Belitung. Rumah ini terbuat dari kayu dengan atap melengkung tinggi. Rumah Panggung Belitung sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan acara adat."
+      },
+      "tradition": {
+        "title": "Festival Tanjung Kelayang",
+        "image": "",
+        "description": "Festival Tanjung Kelayang adalah festival tahunan yang diselenggarakan di Tanjung Kelayang, Bangka Belitung. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan pariwisata Bangka Belitung."
+      },
+      "culinary": [
+        {
+          "title": "Mie Belitung",
+          "image": ""
+        },
+        {
+          "title": "Lempah Kuning",
+          "image": ""
+        },
+        {
+          "title": "Kemplang",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "5166",
+      "region": "Kalimantan Selatan",
+      "region_description": "Kalimantan Selatan adalah provinsi di Pulau Kalimantan, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi hutan hujan tropis, sungai-sungai besar, dan keindahan pantai-pantainya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Kuda Lumping"
+        },
+        {
+          "image": "url",
+          "title": "Tari Baksa Kembang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Baksa Buah"
+        },
+        {
+          "image": "url",
+          "title": "Tari Baksa Tumbuh"
+        },
+        {
+          "image": "url",
+          "title": "Tari Baksa Makin"
+        },
+        {
+          "image": "url",
+          "title": "Tari Baksa Penari"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Betang",
+        "image": "",
+        "description": "Rumah Betang adalah rumah tradisional suku Dayak di Kalimantan Selatan. Rumah ini memiliki struktur panjang dengan atap melengkung tinggi. Rumah Betang sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Gawai Dayak",
+        "image": "",
+        "description": "Gawai Dayak adalah festival budaya tahunan yang diselenggarakan oleh masyarakat Dayak di Kalimantan Selatan. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan kebudayaan Dayak."
+      },
+      "culinary": [
+        {
+          "title": "Soto Banjar",
+          "image": ""
+        },
+        {
+          "title": "Ketupat Kandangan",
+          "image": ""
+        },
+        {
+          "title": "Bingka Barandam",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "423c",
+      "region": "Jambi",
+      "region_description": "Jambi adalah provinsi di Pulau Sumatera, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi hutan tropis, sungai-sungai besar, dan keindahan air terjun.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Gandai"
+        },
+        {
+          "image": "url",
+          "title": "Tari Sigeh Penguten"
+        },
+        {
+          "image": "url",
+          "title": "Tari Serampang Duabelas"
+        },
+        {
+          "image": "url",
+          "title": "Tari Liko Mudiak"
+        },
+        {
+          "image": "url",
+          "title": "Tari Indang Pauah"
+        },
+        {
+          "image": "url",
+          "title": "Tari Piring"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Panggung Jambi",
+        "image": "",
+        "description": "Rumah Panggung Jambi adalah rumah tradisional suku Jambi di Jambi. Rumah ini memiliki struktur panggung dengan atap melengkung tinggi. Rumah Panggung Jambi sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Festival Bakar Tongkang",
+        "image": "",
+        "description": "Festival Bakar Tongkang adalah festival tahunan yang diselenggarakan di Sungai Batanghari, Jambi. Festival ini menghadirkan pertunjukan seni dan budaya tradisional serta perlombaan-perlombaan tradisional seperti balapan perahu tongkang."
+      },
+      "culinary": [
+        {
+          "title": "Pindang Patin",
+          "image": ""
+        },
+        {
+          "title": "Sate Padang Panjang",
+          "image": ""
+        },
+        {
+          "title": "Rendang Daging Jambi",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "fd9e",
+      "region": "Kalimantan Tengah",
+      "region_description": "Kalimantan Tengah adalah provinsi di Pulau Kalimantan, Indonesia. Provinsi ini memiliki kekayaan alam yang meliputi hutan hujan tropis, sungai-sungai besar, dan keindahan pegunungan.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Persembahan"
+        },
+        {
+          "image": "url",
+          "title": "Tari Nelayan"
+        },
+        {
+          "image": "url",
+          "title": "Tari Penyambutan"
+        },
+        {
+          "image": "url",
+          "title": "Tari Senandung"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tumiran"
+        },
+        {
+          "image": "url",
+          "title": "Tari Sabangan"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Betang",
+        "image": "",
+        "description": "Rumah Betang adalah rumah tradisional suku Dayak di Kalimantan Tengah. Rumah ini memiliki struktur panjang dengan atap melengkung tinggi. Rumah Betang sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Hudoq",
+        "image": "",
+        "description": "Hudoq adalah ritual adat masyarakat Dayak di Kalimantan Tengah yang dilakukan untuk memohon keselamatan dan kesuburan. Ritual ini sering diiringi oleh tarian-tarian tradisional dan musik pengiring."
+      },
+      "culinary": [
+        {
+          "title": "Soto Banjar",
+          "image": ""
+        },
+        {
+          "title": "Lempah Kunyit",
+          "image": ""
+        },
+        {
+          "title": "Pampis",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "0aaf",
+      "region": "Nusa Tenggara Timur",
+      "region_description": "Nusa Tenggara Timur adalah provinsi di Indonesia yang terletak di Kepulauan Nusa Tenggara. Provinsi ini terkenal dengan keindahan alamnya yang meliputi pantai-pantai eksotis, gunung-gunung, dan keanekaragaman budaya suku-suku lokal.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Rukaruka"
+        },
+        {
+          "image": "url",
+          "title": "Tari Caci"
+        },
+        {
+          "image": "url",
+          "title": "Tari Lompat Batu"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tenun"
+        },
+        {
+          "image": "url",
+          "title": "Tari Endek"
+        },
+        {
+          "image": "url",
+          "title": "Tari Nagekeo"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Sumba",
+        "image": "",
+        "description": "Rumah Adat Sumba adalah rumah tradisional suku Sumba di Nusa Tenggara Timur. Rumah ini memiliki struktur unik dengan atap yang melengkung ke atas. Rumah Adat Sumba sering digunakan sebagai tempat tinggal dan untuk upacara adat."
+      },
+      "tradition": {
+        "title": "Pesta Wula Podu",
+        "image": "",
+        "description": "Pesta Wula Podu adalah festival budaya tahunan yang diselenggarakan oleh masyarakat Sumba di Nusa Tenggara Timur. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan kebudayaan Sumba."
+      },
+      "culinary": [
+        {
+          "title": "Babi Kecap",
+          "image": ""
+        },
+        {
+          "title": "Ikan Bakar Taliwang",
+          "image": ""
+        },
+        {
+          "title": "Papeda",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "36f5",
+      "region": "Sumatera Barat",
+      "region_description": "Sumatera Barat adalah provinsi di Pulau Sumatera, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi pegunungan, danau-danau, dan keindahan budaya Minangkabau.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Piring"
+        },
+        {
+          "image": "url",
+          "title": "Tari Indang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Silek"
+        },
+        {
+          "image": "url",
+          "title": "Tari Randai"
+        },
+        {
+          "image": "url",
+          "title": "Tari Saluang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Ratok Solok"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Gadang",
+        "image": "",
+        "description": "Rumah Gadang adalah rumah adat suku Minangkabau di Sumatera Barat. Rumah ini memiliki struktur tinggi dengan atap yang melengkung. Rumah Gadang sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Festival Pagaruyung",
+        "image": "",
+        "description": "Festival Pagaruyung adalah festival budaya tahunan yang diselenggarakan di Kabupaten Tanah Datar, Sumatera Barat. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan kebudayaan Minangkabau."
+      },
+      "culinary": [
+        {
+          "title": "Rendang",
+          "image": ""
+        },
+        {
+          "title": "Sate Padang",
+          "image": ""
+        },
+        {
+          "title": "Gulai Daun Singkong",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "9277",
+      "region": "Kalimantan Utara",
+      "region_description": "Kalimantan Utara adalah provinsi di Pulau Kalimantan, Indonesia. Provinsi ini memiliki kekayaan alam yang meliputi hutan hujan tropis, sungai-sungai besar, dan keindahan pegunungan.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Enggang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Jejura"
+        },
+        {
+          "image": "url",
+          "title": "Tari Radap Rahayu"
+        },
+        {
+          "image": "url",
+          "title": "Tari Rukaiyah"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tongkat"
+        },
+        {
+          "image": "url",
+          "title": "Tari Kaliki"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Betang",
+        "image": "",
+        "description": "Rumah Betang adalah rumah tradisional suku Dayak di Kalimantan Utara. Rumah ini memiliki struktur panjang dengan atap melengkung tinggi. Rumah Betang sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Pesta Rukaiyah",
+        "image": "",
+        "description": "Pesta Rukaiyah adalah festival budaya tahunan yang diselenggarakan oleh masyarakat Dayak di Kalimantan Utara. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan kebudayaan Dayak."
+      },
+      "culinary": [
+        {
+          "title": "Soto Banjar",
+          "image": ""
+        },
+        {
+          "title": "Acar Kuning",
+          "image": ""
+        },
+        {
+          "title": "Kerupuk Udang",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "dd4a",
+      "region": "Bengkulu",
+      "region_description": "Bengkulu adalah provinsi di Pulau Sumatera, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi hutan tropis, pantai-pantai indah, dan kekayaan budaya masyarakatnya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Pasambahan"
+        },
+        {
+          "image": "url",
+          "title": "Tari Serampang Dua Belas"
+        },
+        {
+          "image": "url",
+          "title": "Tari Saman"
+        },
+        {
+          "image": "url",
+          "title": "Tari Pasunda"
+        },
+        {
+          "image": "url",
+          "title": "Tari Piring"
+        },
+        {
+          "image": "url",
+          "title": "Tari Andun"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Bengkulu",
+        "image": "",
+        "description": "Rumah Adat Bengkulu adalah rumah tradisional masyarakat Bengkulu. Rumah ini memiliki struktur tinggi dengan atap yang melengkung. Rumah Adat Bengkulu sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Festival Tabot",
+        "image": "",
+        "description": "Festival Tabot adalah festival budaya tahunan yang diselenggarakan oleh masyarakat Bengkulu. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan kebudayaan Bengkulu."
+      },
+      "culinary": [
+        {
+          "title": "Rujak Pengantin",
+          "image": ""
+        },
+        {
+          "title": "Pindang Patin",
+          "image": ""
+        },
+        {
+          "title": "Dendeng Balado",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "cbd1",
+      "region": "Jambi",
+      "region_description": "Jambi adalah provinsi di Pulau Sumatera, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi hutan hujan tropis, sungai-sungai besar, dan keindahan budaya masyarakatnya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Tanggai"
+        },
+        {
+          "image": "url",
+          "title": "Tari Melayu"
+        },
+        {
+          "image": "url",
+          "title": "Tari Merak"
+        },
+        {
+          "image": "url",
+          "title": "Tari Bedana"
+        },
+        {
+          "image": "url",
+          "title": "Tari Piring"
+        },
+        {
+          "image": "url",
+          "title": "Tari Piring"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Jambi",
+        "image": "",
+        "description": "Rumah Adat Jambi adalah rumah tradisional masyarakat Jambi. Rumah ini memiliki struktur tinggi dengan atap yang melengkung. Rumah Adat Jambi sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Kirab Budaya",
+        "image": "",
+        "description": "Kirab Budaya adalah acara tahunan di Jambi yang menampilkan kekayaan budaya dan kesenian tradisional masyarakat Jambi. Kirab Budaya sering diisi dengan parade kostum tradisional, tarian, musik, dan pameran budaya."
+      },
+      "culinary": [
+        {
+          "title": "Pempek Jambi",
+          "image": ""
+        },
+        {
+          "title": "Pindang Patin",
+          "image": ""
+        },
+        {
+          "title": "Sate Padang",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "8033",
+      "region": "Kepulauan Riau",
+      "region_description": "Kepulauan Riau adalah provinsi di Indonesia yang terletak di Kepulauan Riau. Provinsi ini terkenal dengan keindahan alamnya yang meliputi pulau-pulau tropis, pantai-pantai indah, dan kekayaan budaya masyarakatnya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Zapin Melayu"
+        },
+        {
+          "image": "url",
+          "title": "Tari Igal-Igal"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tempurung"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tarek Pukat"
+        },
+        {
+          "image": "url",
+          "title": "Tari Sekapur Sirih"
+        },
+        {
+          "image": "url",
+          "title": "Tari Randai"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Panggung",
+        "image": "",
+        "description": "Rumah Panggung adalah rumah tradisional masyarakat Kepulauan Riau. Rumah ini memiliki struktur tinggi dengan tiang-tiang yang kokoh. Rumah Panggung sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Pesta Rakyat Melayu",
+        "image": "",
+        "description": "Pesta Rakyat Melayu adalah acara tahunan yang diadakan oleh masyarakat Melayu di Kepulauan Riau. Acara ini menghadirkan berbagai pertunjukan seni, musik, dan tarian tradisional serta menjadi ajang untuk merayakan budaya Melayu."
+      },
+      "culinary": [
+        {
+          "title": "Sambal Belacan",
+          "image": ""
+        },
+        {
+          "title": "Gulai Tunjang",
+          "image": ""
+        },
+        {
+          "title": "Soto Batam",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "531f",
+      "region": "Maluku Utara",
+      "region_description": "Maluku Utara adalah provinsi di Indonesia yang terletak di Kepulauan Maluku. Provinsi ini terkenal dengan keindahan alamnya yang meliputi pulau-pulau eksotis, gunung berapi, dan kekayaan budaya masyarakatnya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Cakalele"
+        },
+        {
+          "image": "url",
+          "title": "Tari Gambyong"
+        },
+        {
+          "image": "url",
+          "title": "Tari Yospan"
+        },
+        {
+          "image": "url",
+          "title": "Tari Katreji"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tifa"
+        },
+        {
+          "image": "url",
+          "title": "Tari Nggeru"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Maluku Utara",
+        "image": "",
+        "description": "Rumah Adat Maluku Utara adalah rumah tradisional masyarakat Maluku Utara. Rumah ini memiliki struktur sederhana dengan atap yang melengkung. Rumah Adat Maluku Utara sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Festival Teluk Jailolo",
+        "image": "",
+        "description": "Festival Teluk Jailolo adalah festival budaya tahunan yang diselenggarakan di Teluk Jailolo, Maluku Utara. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan pariwisata Maluku Utara."
+      },
+      "culinary": [
+        {
+          "title": "Papeda",
+          "image": ""
+        },
+        {
+          "title": "Ikan Kuah Kuning",
+          "image": ""
+        },
+        {
+          "title": "Ikan Bakar Maluku",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "2ec9",
+      "region": "Gorontalo",
+      "region_description": "Gorontalo adalah provinsi di Pulau Sulawesi, Indonesia. Provinsi ini terkenal dengan keindahan alamnya yang meliputi pantai-pantai eksotis, danau-danau, dan kekayaan budaya suku Gorontalo.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Dero"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tulolona"
+        },
+        {
+          "image": "url",
+          "title": "Tari Pakarena"
+        },
+        {
+          "image": "url",
+          "title": "Tari Bilio"
+        },
+        {
+          "image": "url",
+          "title": "Tari Dero"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tamborasi"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Gorontalo",
+        "image": "",
+        "description": "Rumah Adat Gorontalo adalah rumah tradisional suku Gorontalo. Rumah ini memiliki struktur sederhana dengan atap jerami atau daun kelapa. Rumah Adat Gorontalo sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan upacara adat."
+      },
+      "tradition": {
+        "title": "Pesta Mongondow",
+        "image": "",
+        "description": "Pesta Mongondow adalah acara tahunan di Gorontalo yang menampilkan berbagai tradisi dan kesenian suku Mongondow. Acara ini diisi dengan pertunjukan seni, musik, tarian, serta pameran budaya tradisional."
+      },
+      "culinary": [
+        {
+          "title": "Binte Biluhuta",
+          "image": ""
+        },
+        {
+          "title": "Pallubasa",
+          "image": ""
+        },
+        {
+          "title": "Gorontalo Soup",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "4f80",
+      "region": "Lampung",
+      "region_description": "Lampung adalah provinsi di Pulau Sumatera, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi pantai-pantai indah, gunung-ganang, serta kekayaan budaya masyarakatnya.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Glipang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Buah Tebu"
+        },
+        {
+          "image": "url",
+          "title": "Tari Gending Sriwijaya"
+        },
+        {
+          "image": "url",
+          "title": "Tari Piring"
+        },
+        {
+          "image": "url",
+          "title": "Tari Serimpi"
+        },
+        {
+          "image": "url",
+          "title": "Tari Lampung"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Lampung",
+        "image": "",
+        "description": "Rumah Adat Lampung adalah rumah tradisional masyarakat Lampung. Rumah ini memiliki struktur sederhana dengan atap jerami atau daun kelapa. Rumah Adat Lampung sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan upacara adat."
+      },
+      "tradition": {
+        "title": "Festival Krakatau",
+        "image": "",
+        "description": "Festival Krakatau adalah festival budaya tahunan yang diselenggarakan di Lampung. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan pariwisata Lampung."
+      },
+      "culinary": [
+        {
+          "title": "Pempek",
+          "image": ""
+        },
+        {
+          "title": "Soto Kikil",
+          "image": ""
+        },
+        {
+          "title": "Sate Sotong",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "d357",
+      "region": "Kalimantan Utara",
+      "region_description": "Kalimantan Utara adalah provinsi di Pulau Kalimantan, Indonesia. Provinsi ini memiliki kekayaan alam yang meliputi hutan hujan tropis, sungai-sungai besar, dan keindahan pegunungan.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Enggang"
+        },
+        {
+          "image": "url",
+          "title": "Tari Jejura"
+        },
+        {
+          "image": "url",
+          "title": "Tari Radap Rahayu"
+        },
+        {
+          "image": "url",
+          "title": "Tari Rukaiyah"
+        },
+        {
+          "image": "url",
+          "title": "Tari Tongkat"
+        },
+        {
+          "image": "url",
+          "title": "Tari Kaliki"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Betang",
+        "image": "",
+        "description": "Rumah Betang adalah rumah tradisional suku Dayak di Kalimantan Utara. Rumah ini memiliki struktur panjang dengan atap melengkung tinggi. Rumah Betang sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Pesta Rukaiyah",
+        "image": "",
+        "description": "Pesta Rukaiyah adalah festival budaya tahunan yang diselenggarakan oleh masyarakat Dayak di Kalimantan Utara. Festival ini menghadirkan berbagai pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan kebudayaan Dayak."
+      },
+      "culinary": [
+        {
+          "title": "Soto Banjar",
+          "image": ""
+        },
+        {
+          "title": "Acar Kuning",
+          "image": ""
+        },
+        {
+          "title": "Kerupuk Udang",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "5278",
+      "region": "DKI Jakarta",
+      "region_image": "https://th.bing.com/th/id/OIP.-Mz973cD_b_Xb9QH4-RhjQHaE8?rs=1&pid=ImgDetMain",
+      "region_description": "DKI Jakarta (Daerah Khusus Ibukota Jakarta) adalah sebuah provinsi di Indonesia yang mencakup wilayah Jakarta, ibu kota negara Indonesia. DKI Jakarta memiliki lima kota administratif, yaitu Jakarta Utara, Jakarta Selatan, Jakarta Barat, Jakarta Timur, dan Jakarta Pusat. Sebagai pusat pemerintahan, ekonomi, budaya, dan pendidikan, DKI Jakarta merupakan salah satu wilayah yang paling padat penduduknya dan memiliki beragam atraksi wisata, kegiatan budaya, serta kuliner yang khas.",
+      "art_image": [
+        {
+          "image": "https://th.bing.com/th/id/OIP.pfGjYfR2MXvQ8RIXSNtNbgHaE8?rs=1&pid=ImgDetMain",
+          "title": "Tari Jaipong"
+        },
+        {
+          "image": "https://www.alatmusik.id/users_media/3/Rebab_2.jpg",
+          "title": "Rebab"
+        },
+        {
+          "image": "https://1.bp.blogspot.com/-UJ0lCMUCJPk/WyxexDReiiI/AAAAAAAADIc/hqHQNiu0mKcueQX7GzUT0xL2oM0c6XzhgCLcBGAs/w1200-h630-p-k-no-nu/Tari%2BTopeng%2BBetawi.JPG",
+          "title": "Tari Topeng"
+        },
+        {
+          "image": "https://www.selasar.com/wp-content/uploads/2020/09/tari-ronggeng-bugis.jpg",
+          "title": "Tari Ronggeng"
+        },
+        {
+          "image": "https://i.ytimg.com/vi/bglNdkKtHw4/maxresdefault.jpg  ",
+          "title": "Tari Ondel-Ondel"
+        },
+        {
+          "image": "https://www.alatmusik.id/users_media/3/Kromong_1.jpg",
+          "title": "Kromong"
+        }
+      ],
+      "architecture": {
+        "title": "Gedung Monas",
+        "image": "https://th.bing.com/th/id/OIP.UhERsafVRLdgAdRUQTZLmAAAAA?rs=1&pid=ImgDetMain",
+        "description": "Gedung Monas (Monumen Nasional) adalah landmark terkenal di Jakarta, Indonesia. Gedung ini berdiri sebagai simbol kemerdekaan Indonesia dan berfungsi sebagai museum yang menyimpan berbagai koleksi sejarah dan artefak nasional."
+      },
+      "tradition": {
+        "title": "Upacara Adat Manas",
+        "image": "https://ppkn.co.id/wp-content/uploads/2020/03/upacara-adat-DKI-Jakarta-e1585374017969.jpg",
+        "description": "Upacara adat Mapas adalah tradisi yang dilakukan oleh masyarakat Betawi di DKI Jakarta ketika ada seorang ibu yang baru saja melahirkan.  Pada saat upacara Mapas, ibu yang baru melahirkan diharuskan memakan sayur papasan, yang isinya terdiri atas berbagai macam sayur-mayur yang banyak mengandung vitamin1. Beberapa sayur yang biasanya ada ialah kangkung, bayam, daun genjer, dan banyak lagi1.  Tujuan dari upacara ini adalah agar ibu yang melahirkan memperoleh gizi yang cukup sehingga kesehatannya berangsur-angsur membaik1. Selain itu, upacara ini juga sebagai bukti bahwa ibu yang baru melahirkan mempunyai kasih sayang yang besar terhadap anak yang baru dilahirkan "
+      },
+      "culinary": [
+        {
+          "title": "Soto Betawi",
+          "image": "https://th.bing.com/th/id/OIP.2CcWIRUTHM52G1SRvklHqwHaE8?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Kerak Telor",
+          "image": "https://th.bing.com/th/id/OIP.N8XpWRCjw-VrwMX7KpeIqgHaEU?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Nasi Uduk",
+          "image": "https://th.bing.com/th/id/OIP.N8XpWRCjw-VrwMX7KpeIqgHaEU?rs=1&pid=ImgDetMain"
+        }
+      ]
+    },
+    {
+      "id": "22a8",
+      "region": "Sulawesi Barat",
+      "region_description": "Sulawesi Barat adalah provinsi di Pulau Sulawesi, Indonesia. Provinsi ini terkenal dengan kekayaan alamnya yang meliputi pegunungan, pantai-pantai eksotis, dan kekayaan budaya suku-suku lokal.",
+      "art_image": [
+        {
+          "image": "url",
+          "title": "Tari Pa'didu"
+        },
+        {
+          "image": "url",
+          "title": "Tari Sajojo"
+        },
+        {
+          "image": "url",
+          "title": "Tari Pa'pate"
+        },
+        {
+          "image": "url",
+          "title": "Tari Pakarena"
+        },
+        {
+          "image": "url",
+          "title": "Tari Panyallo"
+        },
+        {
+          "image": "url",
+          "title": "Tari La Kandar"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Mamuju",
+        "image": "",
+        "description": "Rumah Adat Mamuju adalah rumah tradisional suku Mamuju di Sulawesi Barat. Rumah ini memiliki struktur tinggi dengan atap melengkung. Rumah Adat Mamuju sering digunakan sebagai tempat tinggal dan untuk menyelenggarakan pertemuan adat."
+      },
+      "tradition": {
+        "title": "Festival Pasola",
+        "image": "",
+        "description": "Festival Pasola adalah festival tahunan yang diselenggarakan oleh masyarakat Sumba di Sulawesi Barat. Festival ini menghadirkan pertunjukan seni dan budaya tradisional serta menjadi ajang untuk mempromosikan kebudayaan Sumba."
+      },
+      "culinary": [
+        {
+          "title": "Konro",
+          "image": ""
+        },
+        {
+          "title": "Coto Makassar",
+          "image": ""
+        },
+        {
+          "title": "Pallubasa",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "a62b",
+      "region": "Jawa Barat",
+      "region_image": "https://ichef.bbci.co.uk/news/640/cpsprodpb/0057/production/_108578000_gettyimages-923316538.jpg",
+      "region_description": "Jawa Barat adalah provinsi di Pulau Jawa, Indonesia. Provinsi ini terkenal dengan kekayaan budaya, sejarah, dan alamnya yang indah. Salah satu ikon Jawa Barat adalah Gunung Tangkuban Perahu, sebuah gunung berapi aktif yang menjadi tujuan wisata populer.",
+      "art_image": [
+        {
+          "image": "https://th.bing.com/th/id/OIP.DJ7f-u7qHThz-dbeNDt-NgHaE7?rs=1&pid=ImgDetMain",
+          "title": "Tari Jaipong"
+        },
+        {
+          "image": "https://cdn-cas.orami.co.id/parenting/images/Angklung-encyclocraftsapr.com_.width-800.jpg",
+          "title": "Angklung"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP._j33dMsvtozFtafMa5_rfwHaDq?rs=1&pid=ImgDetMain",
+          "title": "Tari Topeng Priangan"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.YEFrpfu0kuWwKPUS5wi8sgAAAA?rs=1&pid=ImgDetMain",
+          "title": "Arumba"
+        },
+        {
+          "image": "https://2.bp.blogspot.com/-xsWNI77oud8/WnZuquIOkiI/AAAAAAAABMA/7SgyLBR15NA5bim362cvK9sKrc6v6weHwCLcBGAs/s1600/cintaindonesia.web.id.jpg",
+          "title": "Tari Serampang Dua Belas"
+        },
+        {
+          "image": "https://th.bing.com/th/id/OIP.a_JUwbODMd8L3PlFysjGRAHaE8?rs=1&pid=ImgDetMain",
+          "title": "Tari Buyung"
+        }
+      ],
+      "architecture": {
+        "title": "Rumah Adat Sunda",
+        "image": "https://th.bing.com/th/id/OIP.HVvM_Bj-NMK8VYNyk_uWOAHaEl?rs=1&pid=ImgDetMain",
+        "description": "Rumah Adat Sunda adalah rumah tradisional suku Sunda di Jawa Barat. Rumah ini biasanya terbuat dari kayu dan bambu, dengan atap yang melengkung. Rumah Adat Sunda sering digunakan untuk acara adat atau sebagai tempat tinggal."
+      },
+      "tradition": {
+        "title": "Sisingaan",
+        "image": "https://th.bing.com/th/id/OIP.Qd9fPuxGfrIRpnNra_36kQHaD4?rs=1&pid=ImgDetMain",
+        "description": "Sisingaan adalah seni pertunjukan tradisional dari Jawa Barat yang menggambarkan pertarungan antara singa dan penari. Pertunjukan ini biasanya diiringi dengan musik gamelan dan menjadi atraksi wisata budaya yang populer."
+      },
+      "culinary": [
+        {
+          "title": "Soto Bandung",
+          "image": "https://th.bing.com/th/id/OIP.7SkA3uQeiQvVwUduInfZ9wHaEK?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Nasi Timbel",
+          "image": "https://th.bing.com/th/id/OIP.gVC3VJ0x3uaU38eNyEb5NAHaE7?rs=1&pid=ImgDetMain"
+        },
+        {
+          "title": "Batagor",
+          "image": "https://th.bing.com/th/id/OIP.DdjdB0NKZRMdIq_X71XDcwHaE8?rs=1&pid=ImgDetMain"
+        }
+      ]
+    }
+  ],
+  "books": [
+    {
+      "id": "3e88",
+      "title": "Malin Kundang",
+      "author": "Penulis Tidak Diketahui",
+      "genre": [
+        "Cerita Rakyat"
+      ],
+      "summary": "Cerita rakyat dari Sumatera Barat tentang seorang anak muda yang menjadi kaya dan lupa asal-usulnya, mengingkari ibunya, dan akhirnya dikutuk menjadi batu.",
+      "content": "Pada zaman dahulu, di sebuah desa nelayan di pantai Sumatera Barat, hiduplah seorang janda miskin dan anaknya yang bernama Malin Kundang. Mereka hidup dalam keadaan yang sangat sederhana dan serba kekurangan. Meski demikian, Malin Kundang adalah anak yang rajin dan selalu berusaha keras membantu ibunya. Suatu hari, Malin Kundang memutuskan untuk merantau, meninggalkan ibunya, dengan harapan bisa mendapatkan kehidupan yang lebih baik. Setelah beberapa tahun merantau, Malin Kundang menjadi kaya raya. Dia memiliki banyak kapal dan menjadi seorang pedagang yang sukses. Suatu hari, dia memutuskan untuk kembali ke kampung halamannya. Ketika dia tiba di kampung halamannya, ibunya yang sudah tua dan lemah, sangat senang melihat anaknya kembali. Namun, Malin Kundang malah merasa malu dengan keadaan ibunya yang miskin dan lusuh. Dia mengingkari ibunya dan bahkan mempermalukannya di depan banyak orang. Sang ibu sangat sedih dan marah, lalu dengan air mata mengalir deras, dia mengutuk Malin Kundang menjadi batu. Tak lama setelah itu, badai besar datang dan Malin Kundang yang berada di kapalnya, tersapu ombak besar dan berubah menjadi batu.",
+      "image": {
+        "cover": "https://aryadutawebstore.co.id/assets/uploads/foto-produk/fc9b56b9c24e5aec506c810495e5e995.jpg"
+      }
+    },
+    {
+      "id": "4d8c",
+      "title": "Bawang Merah Bawang Putih",
+      "author": "Penulis Tidak Diketahui",
+      "genre": [
+        "Cerita Rakyat"
+      ],
+      "summary": "Cerita rakyat tentang dua saudara tiri dengan sifat yang berbeda, Bawang Merah yang jahat dan Bawang Putih yang baik hati.",
+      "content": "Bawang Merah dan Bawang Putih adalah saudara tiri. Bawang Merah dan ibunya sangat jahat kepada Bawang Putih yang baik hati dan rajin bekerja. Suatu hari, Bawang Putih menemukan ikan ajaib yang dapat mengabulkan permintaannya. Ketika Bawang Merah dan ibunya mengetahui hal ini, mereka mencoba mencuri ikan tersebut. Namun, ikan tersebut hanya mengabulkan permintaan Bawang Putih. Pada akhirnya, kebaikan Bawang Putih membuat seorang pangeran jatuh cinta padanya dan mereka hidup bahagia selamanya, sementara Bawang Merah dan ibunya mendapatkan hukuman atas perbuatan jahat mereka.",
+      "image": {
+        "cover": "https://cf.shopee.co.id/file/99d208b9d8bafc6690134f4631c759f1"
+      }
+    },
+    {
+      "id": "4283",
+      "title": "Sangkuriang",
+      "author": "Penulis Tidak Diketahui",
+      "genre": [
+        "Cerita Rakyat"
+      ],
+      "summary": "Cerita rakyat dari Jawa Barat tentang Sangkuriang yang jatuh cinta pada ibunya sendiri tanpa sepengetahuannya dan akhirnya mencoba membangun sebuah danau dan perahu dalam semalam.",
+      "content": "Sangkuriang adalah anak laki-laki yang sangat kuat dan tampan. Dia jatuh cinta pada seorang wanita cantik tanpa mengetahui bahwa wanita itu adalah ibunya sendiri. Ketika dia melamar wanita itu, dia diberi tantangan untuk membuat danau dan perahu dalam semalam. Sangkuriang hampir berhasil, tetapi ibunya menyadari identitasnya dan menghentikan matahari terbit lebih awal. Sangkuriang marah dan menendang perahu yang hampir selesai, yang kemudian menjadi gunung Tangkuban Perahu.",
+      "image": {
+        "cover": "https://www.bukukita.com/babacms/displaybuku/80471_f.jpg"
+      }
+    },
+    {
+      "id": "9044",
+      "title": "Roro Jonggrang",
+      "author": "Penulis Tidak Diketahui",
+      "genre": [
+        "Cerita Rakyat"
+      ],
+      "summary": "Cerita rakyat dari Jawa Tengah tentang seorang putri cantik yang meminta pembangunan seribu candi dalam semalam untuk menghindari pernikahan dengan seorang pangeran.",
+      "content": "Roro Jonggrang adalah putri cantik dari kerajaan Prambanan. Seorang pangeran bernama Bandung Bondowoso jatuh cinta padanya dan ingin menikahinya. Namun, Roro Jonggrang tidak ingin menikah dengannya dan memberinya tantangan untuk membangun seribu candi dalam semalam. Bandung Bondowoso hampir berhasil, tetapi Roro Jonggrang berhasil mengelabui dia dan membuatnya gagal. Dalam kemarahan, Bandung Bondowoso mengutuk Roro Jonggrang menjadi candi, yang sekarang dikenal sebagai Candi Prambanan.",
+      "image": {
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404698218i/22672072.jpg"
+      }
+    },
+    {
+      "id": "8d1f",
+      "title": "Cindelaras",
+      "author": "Penulis Tidak Diketahui",
+      "genre": [
+        "Cerita Rakyat"
+      ],
+      "summary": "Cerita rakyat dari Jawa Timur tentang seorang anak laki-laki yang memiliki ayam jago dengan kekuatan luar biasa.",
+      "content": "Cindelaras adalah anak laki-laki yang tinggal di hutan bersama ibunya. Suatu hari, dia menemukan telur ayam dan menetaskannya. Ayam yang menetas dari telur tersebut bukanlah ayam biasa, tetapi ayam jago dengan kekuatan luar biasa. Cindelaras kemudian memasukkan ayam jagonya dalam pertandingan sabung ayam dan selalu menang. Kabar tentang ayam jago Cindelaras sampai ke telinga raja. Raja kemudian mengundang Cindelaras untuk bertanding dengan ayam jago miliknya. Dalam pertandingan tersebut, ayam jago Cindelaras berhasil mengalahkan ayam jago raja. Sebagai hadiah, Cindelaras diberi setengah kerajaan oleh raja.",
+      "image": {
+        "cover": "https://th.bing.com/th/id/OIP.NtDf2ZiA3TI6-gZ-JdE3JgHaHQ?rs=1&pid=ImgDetMain"
+      }
+    },
+    {
+      "id": "6b91",
+      "title": "Lutung Kasarung",
+      "author": "Penulis Tidak Diketahui",
+      "genre": [
+        "Cerita Rakyat"
+      ],
+      "summary": "Cerita rakyat dari Jawa Barat tentang seorang putri yang ditemani oleh seekor lutung yang ternyata adalah seorang pangeran yang dikutuk.",
+      "content": "Pada zaman dahulu, ada seorang putri cantik bernama Purbasari. Dia memiliki saudara tiri yang iri dan jahat bernama Purbararang. Suatu hari, Purbararang berhasil mengusir Purbasari ke hutan. Di hutan, Purbasari bertemu dengan seekor lutung yang selalu menemaninya. Ternyata, lutung tersebut adalah seorang pangeran yang dikutuk. Dengan bantuan lutung, Purbasari berhasil mengalahkan Purbararang dan kembali ke kerajaan. Lutung kemudian berubah kembali menjadi pangeran dan mereka hidup bahagia selamanya.",
+      "image": {
+        "cover": "https://www.bukukita.com/babacms/displaybuku/89766_f.jpg"
+      }
+    }
+  ],
+  "songs": [
+    {
+      "id": "f1e5",
+      "title": "Ampar Ampar Pisang",
+      "description": "Ampar Ampar Pisang adalah lagu permainan anak-anak tradisional yang berasal dari daerah Jawa Tengah. Lagu ini telah menjadi bagian dari warisan budaya Indonesia sejak lama dan diwariskan secara turun-temurun dari generasi ke generasi. Lirik lagu yang sederhana dan menghibur ini mengajarkan tentang kerjasama, kebersamaan, dan kegembiraan dalam permainan anak-anak tradisional. Lagu ini juga sering digunakan sebagai media pembelajaran untuk mengembangkan keterampilan motorik, koordinasi, dan interaksi sosial anak-anak melalui permainan dan gerak tari yang menyertainya. Selain itu, lagu ini juga mencerminkan nilai-nilai budaya Jawa seperti kebersamaan, kesederhanaan, dan keharmonisan dalam kehidupan sehari-hari.",
+      "source": "Jawa Tengah",
+      "duration": 246,
+      "image": {
+        "path": "https://th.bing.com/th/id/OIP.oF22HYh7uB7eR6VFgh9W7AHaEK?rs=1&pid=ImgDetMain"
+      },
+      "file": {
+        "name": "Ampar-Ampar-Pisang.mp3",
+        "size": 1500000,
+        "path": "../../../../../database/songs/Ampar-Ampar-Pisang.mp3"
+      },
+      "artist": [
+        {
+          "name": "Grup Kesenian Tradisional Jawa Tengah"
+        }
+      ],
+      "genre": [
+        "Tradisional"
+      ]
+    },
+    {
+      "id": "269f",
+      "title": "Anak Kambing Saya",
+      "description": "Anak Kambing Saya adalah lagu permainan anak-anak tradisional yang berasal dari daerah Sumatera Barat. Lagu ini dinyanyikan dengan gerakan tangan dan badan yang menceritakan tentang seorang anak yang memelihara seekor kambing. Lagu ini mengajarkan tentang kepedulian terhadap hewan peliharaan dan mengembangkan keterampilan motorik anak-anak melalui gerakan yang menyertainya. Selain itu, lagu ini juga mencerminkan nilai-nilai budaya Minangkabau seperti kasih sayang, kegembiraan, dan kedekatan dengan alam.",
+      "source": "Sumatera Barat",
+      "duration": 179,
+      "image": {
+        "path": "https://th.bing.com/th/id/OIP.mLAA1XkJYyZIAfu2A5-yKAHaEK?rs=1&pid=ImgDetMain"
+      },
+      "file": {
+        "name": "Anak-Kambing-Saya.mp3",
+        "size": 2500000,
+        "path": "../../../../../database/songs/Anak-Kambing-Saya.mp3"
+      },
+      "artist": [
+        {
+          "name": "Grup Kesenian Tradisional Sumatera Barat"
+        }
+      ],
+      "genre": [
+        "Tradisional"
+      ]
+    },
+    {
+      "id": "a722",
+      "title": "Angin Mammiri",
+      "description": "Angin Mammiri adalah lagu daerah yang berasal dari Sulawesi Selatan. Lagu ini menggambarkan kehidupan masyarakat Bugis-Makassar yang dekat dengan laut dan angin. Liriknya yang indah melukiskan suasana alam dan kehidupan nelayan di pesisir Sulawesi Selatan. Lagu ini melambangkan semangat dan kekuatan dalam menghadapi tantangan kehidupan, serta mencerminkan nilai-nilai budaya Bugis-Makassar seperti ketangguhan, keberanian, dan kecintaan terhadap laut.",
+      "source": "Sulawesi Selatan",
+      "duration": 198,
+      "image": {
+        "path": "https://i.ytimg.com/vi/6tCpOzcHmN0/maxresdefault.jpg"
+      },
+      "file": {
+        "name": "Angin-Mammiri.mp3",
+        "size": 2100000,
+        "path": "../../../../../database/songs/Angin-Mammiri.mp3"
+      },
+      "artist": [
+        {
+          "name": "Grup Kesenian Tradisional Bugis-Makassar"
+        }
+      ],
+      "genre": [
+        "Tradisional"
+      ]
+    },
+    {
+      "id": "ec70",
+      "title": "Apuse",
+      "description": "Apuse adalah lagu tradisional yang berasal dari daerah Papua. Lagu ini menggambarkan kehidupan masyarakat asli Papua yang dekat dengan alam dan budaya leluhur mereka. Lirik lagu yang kaya dengan bahasa daerah Papua melukiskan keindahan alam dan kebersamaan dalam komunitas masyarakat Papua. Lagu ini melambangkan persatuan, kekuatan, dan kebanggaan masyarakat Papua terhadap warisan budaya mereka. Selain itu, lagu ini juga mencerminkan nilai-nilai budaya Papua seperti kebersamaan, penghargaan terhadap alam, dan hubungan yang erat dengan leluhur.",
+      "source": "Papua",
+      "duration": 158,
+      "image": {
+        "path": "https://th.bing.com/th/id/OIP.z9w1C48Ya8whTZqq86ibcAHaEK?rs=1&pid=ImgDetMain"
+      },
+      "file": {
+        "name": "Apuse.mp3",
+        "size": 2800000,
+        "path": "../../../../../database/songs/Apuse.mp3"
+      },
+      "artist": [
+        {
+          "name": "Grup Kesenian Tradisional Papua"
+        }
+      ],
+      "genre": [
+        "Tradisional"
+      ]
+    },
+    {
+      "id": "a751",
+      "title": "Cucak Rowo",
+      "description": "Cucak Rowo adalah lagu campursari yang berasal dari daerah Jawa TImur. Lagu ini menceritakan tentang burung cucak rawa yang merdu suaranya dan menjadi inspirasi bagi masyarakat Jawa. Lirik lagu yang indah dan penuh kiasan ini mengekspresikan kekaguman terhadap keindahan alam dan menyampaikan pesan-pesan bijak tentang kehidupan. Lagu ini mencerminkan nilai-nilai budaya Jawa seperti kehalusan, keindahan, dan penghargaan terhadap alam. Selain itu, lagu ini juga menggambarkan kehidupan masyarakat pedesaan di Jawa Tengah yang dekat dengan alam dan keharmonisan dengan lingkungan sekitar.",
+      "source": "Jawa Timur",
+      "duration": 270,
+      "image": {
+        "path": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/142/2023/10/08/lirik-dan-makna-lagu-daerah-Cucak-Rowo-dari-Jawa-Timur-1255311610.jpg"
+      },
+      "file": {
+        "name": "Cucak-Rowo.mp3",
+        "size": 2800000,
+        "path": "../../../../../database/songs/Cucak-Rowo.mp3"
+      },
+      "artist": [
+        {
+          "name": "Grup Kesenian Tradisional Jawa Timur"
+        }
+      ],
+      "genre": [
+        "Tradisional"
+      ]
+    }
+  ]
+}
