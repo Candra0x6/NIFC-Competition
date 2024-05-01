@@ -13,6 +13,6 @@
       { "handle": "filesystem" },
       { "src": "/(.*)",
     "dest" : "api/server.js"
-    }
-          ]
+      }
+    ]
   }
