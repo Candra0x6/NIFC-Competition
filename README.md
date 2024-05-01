@@ -1,7 +1,5 @@
 ![MasterHead](./web/public/svg/budayantara.svg)
 
-Sure, here's an updated README file with the website name "Budayantara" and the information about the technologies you're using:
-
 # Budayantara: Exploring the Cultural Heritage of Nusantara
 
 This repository contains the source code for "Budayantara," a website that showcases the rich cultural heritage of the Nusantara region, focusing on Indonesia. The website aims to educate and promote various aspects of Indonesian culture, including dance, music, architecture, art, culinary traditions, and customs. It is built using React.js with Vite, Tailwind CSS, and JSON Server.
