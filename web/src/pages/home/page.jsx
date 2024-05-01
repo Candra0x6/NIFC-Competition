@@ -1,7 +1,6 @@
 import React from "react";
 import Layout from "../../components/layout/layout";
-import landingImage from "../../assets/image/LandingImg.svg";
-
+import landingImage from "../../assets/image/ViewNusantara.svg";
 import at3 from "../../assets/image/attribute3.svg";
 import discoverImg1 from "../../assets/image/traditional-temple-image.png";
 import discoverImg2 from "../../assets/image/traditional-dance-image.png";
