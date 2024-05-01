@@ -23,7 +23,7 @@ function Navbar() {
       <img
         src={FlowerHanddraw}
         alt=""
-        className="absolute left-0 top-0 2xl:w-[800px] lg:w-[400px] md:w-[250px]  w-[250px]"
+        className="absolute left-0 top-0 2xl:w-[800px] lg:w-[400px] md:w-[250px] w-[250px]"
       />
       <img
         src={FlowerHanddraw2}
