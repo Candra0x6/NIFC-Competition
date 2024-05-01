@@ -1,3 +1,5 @@
+![MasterHead](./web/public/svg/budayantara.svg)
+
 Sure, here's an updated README file with the website name "Budayantara" and the information about the technologies you're using:
 
 # Budayantara: Exploring the Cultural Heritage of Nusantara
