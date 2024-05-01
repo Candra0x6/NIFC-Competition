@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "api/server.js",
-  "scripts": {
-    "start": "npx json-server db.json"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
