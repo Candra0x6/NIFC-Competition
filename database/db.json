@@ -2240,29 +2240,6 @@
   ],
   "songs": [
     {
-      "id": "f1e5",
-      "title": "Ampar Ampar Pisang",
-      "description": "Ampar Ampar Pisang adalah lagu permainan anak-anak tradisional yang berasal dari daerah Jawa Tengah. Lagu ini telah menjadi bagian dari warisan budaya Indonesia sejak lama dan diwariskan secara turun-temurun dari generasi ke generasi. Lirik lagu yang sederhana dan menghibur ini mengajarkan tentang kerjasama, kebersamaan, dan kegembiraan dalam permainan anak-anak tradisional. Lagu ini juga sering digunakan sebagai media pembelajaran untuk mengembangkan keterampilan motorik, koordinasi, dan interaksi sosial anak-anak melalui permainan dan gerak tari yang menyertainya. Selain itu, lagu ini juga mencerminkan nilai-nilai budaya Jawa seperti kebersamaan, kesederhanaan, dan keharmonisan dalam kehidupan sehari-hari.",
-      "source": "Jawa Tengah",
-      "duration": 246,
-      "image": {
-        "path": "https://th.bing.com/th/id/OIP.oF22HYh7uB7eR6VFgh9W7AHaEK?rs=1&pid=ImgDetMain"
-      },
-      "file": {
-        "name": "Ampar-Ampar-Pisang.mp3",
-        "size": 1500000,
-        "path": "../../../../../database/songs/Ampar-Ampar-Pisang.mp3"
-      },
-      "artist": [
-        {
-          "name": "Grup Kesenian Tradisional Jawa Tengah"
-        }
-      ],
-      "genre": [
-        "Tradisional"
-      ]
-    },
-    {
       "id": "269f",
       "title": "Anak Kambing Saya",
       "description": "Anak Kambing Saya adalah lagu permainan anak-anak tradisional yang berasal dari daerah Sumatera Barat. Lagu ini dinyanyikan dengan gerakan tangan dan badan yang menceritakan tentang seorang anak yang memelihara seekor kambing. Lagu ini mengajarkan tentang kepedulian terhadap hewan peliharaan dan mengembangkan keterampilan motorik anak-anak melalui gerakan yang menyertainya. Selain itu, lagu ini juga mencerminkan nilai-nilai budaya Minangkabau seperti kasih sayang, kegembiraan, dan kedekatan dengan alam.",
@@ -2274,7 +2251,7 @@
       "file": {
         "name": "Anak-Kambing-Saya.mp3",
         "size": 2500000,
-        "path": "../../../../../database/songs/Anak-Kambing-Saya.mp3"
+        "url": "https://firebasestorage.googleapis.com/v0/b/furniture-c2c62.appspot.com/o/Anak-Kambing%20Saya.mp3?alt=media&token=f89aa09c-244d-4980-a017-cd32b41c33e8"
       },
       "artist": [
         {
@@ -2295,9 +2272,7 @@
         "path": "https://i.ytimg.com/vi/6tCpOzcHmN0/maxresdefault.jpg"
       },
       "file": {
-        "name": "Angin-Mammiri.mp3",
-        "size": 2100000,
-        "path": "../../../../../database/songs/Angin-Mammiri.mp3"
+        "url": "https://firebasestorage.googleapis.com/v0/b/furniture-c2c62.appspot.com/o/Angin-Mammiri.mp3?alt=media&token=c3b1bee8-7168-493e-96c8-42af3b74de27"
       },
       "artist": [
         {
@@ -2318,9 +2293,7 @@
         "path": "https://th.bing.com/th/id/OIP.z9w1C48Ya8whTZqq86ibcAHaEK?rs=1&pid=ImgDetMain"
       },
       "file": {
-        "name": "Apuse.mp3",
-        "size": 2800000,
-        "path": "../../../../../database/songs/Apuse.mp3"
+        "url": "https://firebasestorage.googleapis.com/v0/b/furniture-c2c62.appspot.com/o/Apuse.mp3?alt=media&token=944bc541-e683-4073-b3f0-aa2c8a6fe224"
       },
       "artist": [
         {
@@ -2341,9 +2314,30 @@
         "path": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/142/2023/10/08/lirik-dan-makna-lagu-daerah-Cucak-Rowo-dari-Jawa-Timur-1255311610.jpg"
       },
       "file": {
+        "url": "https://firebasestorage.googleapis.com/v0/b/furniture-c2c62.appspot.com/o/Cucak-Rowo.mp3?alt=media&token=cabef372-756b-4ebc-af5c-17d547ad6d94"
+      },
+      "artist": [
+        {
+          "name": "Grup Kesenian Tradisional Jawa Timur"
+        }
+      ],
+      "genre": [
+        "Tradisional"
+      ]
+    },
+    {
+      "id": "04f8",
+      "title": "Cucak Rowo",
+      "description": "Cucak Rowo adalah lagu campursari yang berasal dari daerah Jawa TImur. Lagu ini menceritakan tentang burung cucak rawa yang merdu suaranya dan menjadi inspirasi bagi masyarakat Jawa. Lirik lagu yang indah dan penuh kiasan ini mengekspresikan kekaguman terhadap keindahan alam dan menyampaikan pesan-pesan bijak tentang kehidupan. Lagu ini mencerminkan nilai-nilai budaya Jawa seperti kehalusan, keindahan, dan penghargaan terhadap alam. Selain itu, lagu ini juga menggambarkan kehidupan masyarakat pedesaan di Jawa Tengah yang dekat dengan alam dan keharmonisan dengan lingkungan sekitar.",
+      "source": "Jawa Timur",
+      "duration": 270,
+      "image": {
+        "path": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/142/2023/10/08/lirik-dan-makna-lagu-daerah-Cucak-Rowo-dari-Jawa-Timur-1255311610.jpg"
+      },
+      "file": {
         "name": "Cucak-Rowo.mp3",
         "size": 2800000,
-        "path": "../../../../../database/songs/Cucak-Rowo.mp3"
+        "url": "https://firebasestorage.googleapis.com/v0/b/furniture-c2c62.appspot.com/o/Ampar-Ampar-Pisang.mp3?alt=media&token=3398349e-9934-4307-9699-2202b471d5a2"
       },
       "artist": [
         {

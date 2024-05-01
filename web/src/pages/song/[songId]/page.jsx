@@ -6,15 +6,14 @@ import Heading from "../../../components/ui/heading";
 import Text from "../../../components/ui/text";
 import SongCover from "../components/SongCover";
 import useMusicPlayer from "../../../hooks/useMusicPlayer";
-import MusicPlayerControls from "./components/MusicPlayerControls";
-import MusicDuration from "./components/MusicDuration";
-
+import MusicDuration from "../components/MusicDuration";
+import MusicPlayerControls from "../components/MusicPlayerControls";
 function SongDetail() {
   const { songId } = useParams();
   const currentAudio = useRef();
 
   const [musicDetail, setMusicDetail] = useState();
-
+  console.log(musicDetail);
   const {
     audioCurrentTime,
     audioDuration,
@@ -40,13 +39,15 @@ function SongDetail() {
     }
   };
 
+  const a = musicDetail && musicDetail.file.name;
   useEffect(() => {
     getMusicById();
   }, []);
   return (
     <Layout className="lg:mt-60 mt-20 lg:px-6 px-5">
       <audio
-        src={musicDetail && musicDetail.file.path}
+        type="audio/mpeg"
+        src={`${musicDetail && musicDetail.file.url}`}
         ref={currentAudio}
         onTimeUpdate={handleAudioUpdate}
         onEnded={() => setIsAudioPlaying(false)}

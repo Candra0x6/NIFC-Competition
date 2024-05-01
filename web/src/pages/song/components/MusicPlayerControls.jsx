@@ -1,8 +1,8 @@
 import React from "react";
-import PlayArrowIcon from "../../../../assets/icon/play.png";
-import PauseArrowIcon from "../../../../assets/icon/pause.png";
-import FastForwardIcon from "../../../../assets/icon/fast-forward.png";
-import FastRewindIcon from "../../../../assets/icon/fast-rewind.png";
+import PlayArrowIcon from "../../../assets/icon/play.png";
+import PauseArrowIcon from "../../../assets/icon/pause.png";
+import FastForwardIcon from "../../../assets/icon/fast-forward.png";
+import FastRewindIcon from "../../../assets/icon/fast-rewind.png";
 
 function MusicPlayerControls({
   FastForward,

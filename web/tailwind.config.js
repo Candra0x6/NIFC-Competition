@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 const plugin = require("tailwindcss/plugin");
 export default {
-  content: ["./index.html", "./web/src/**/*.{js,ts,jsx,tsx}"],
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
       animation: {
@@ -27,7 +27,7 @@ export default {
       addBase({
         "@font-face": {
           fontFamily: "MarcellusSC",
-          src: "url(/web/src/assets/font/MarcellusSC-Regular.ttf)",
+          src: "url(/src/assets/font/MarcellusSC-Regular.ttf)",
         },
       });
     }),
@@ -35,7 +35,7 @@ export default {
       addBase({
         "@font-face": {
           fontFamily: "InkFree",
-          src: "url(/web/src/assets/font/Inkfree.ttf)",
+          src: "url(/src/assets/font/Inkfree.ttf)",
         },
       });
     }),
@@ -43,7 +43,7 @@ export default {
       addBase({
         "@font-face": {
           fontFamily: "Alata",
-          src: "url(/web/src/assets/font/Alata-Regular.ttf)",
+          src: "url(/src/assets/font/Alata-Regular.ttf)",
         },
       });
     }),
