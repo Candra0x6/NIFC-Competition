@@ -10,7 +10,6 @@ Budayantara is a comprehensive platform that provides information and resources 
 
 ### Features
 
-- **Dance**: Explore the captivating world of Indonesian traditional dances, with descriptions, videos, and historical context.
 - **Music**: Discover the enchanting melodies and rhythms of Indonesia's musical genres, from gamelan to angklung.
 - **Architecture**: Admire the stunning architectural marvels of Indonesia, from ancient temples to modern buildings.
 - **Art**: Appreciate the beauty and symbolism of Indonesian art forms, including batik, woodcarving, and painting.
@@ -28,10 +27,10 @@ Budayantara is a comprehensive platform that provides information and resources 
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/budayantara.git`
+1. Clone the repository: `git clone https://github.com/Candra0x6/NIFC-Competition.git`
 2. Install dependencies: `npm install`
-3. Start the development server: `npm run dev`
-4. Start the JSON Server: `npm run json-server`
+3. Start the development server: `cd /web/ --- npm run dev`
+4. Start the JSON Server: ` 1. cd /database/ -- npx json-server db.json`
 
 The website will be available at `http://localhost:5173`, and the JSON Server will be running at `http://localhost:3000`.
 
