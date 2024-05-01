@@ -1,12 +1,12 @@
 {
-  "name": "database",
+  "name": "json-server-vercel",
   "version": "1.0.0",
-  "description": "",
+  "description": "Deploy JSON Server to Vercel",
   "main": "api/server.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "scripts": {
+    "start": "node api/server.js"
+  },
   "dependencies": {
-    "json-server": "^1.0.0-alpha.23"
+    "json-server": "^0.17.4"
   }
 }
