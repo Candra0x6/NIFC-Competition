@@ -13,11 +13,11 @@ import HeroPic from "../../assets/image/moh-hatta.png";
 function Home() {
   return (
     <main className="relative min-w-screen">
-      <div className="bg-cusOrange relative w-full md:pt-32 pt-8">
+      <div className="bg-cusOrange relative w-full 2xl:pt-12 md:pt-32 pt-8">
         <Layout>
           <div className="min-h-[40vh] lg:min-h-[30vw] w-full flex flex-col justify-end">
             <div className="flex flex-col items-center ">
-              <h1 className="text-[8vw] lg:text-[5vw] font-primary text-center mb-20 text-cusBrown">
+              <h1 className="text-[8vw] lg:text-[5vw] 2xl:text-[4.7vw] font-primary text-center mb-20 text-cusBrown">
                 Keanekaragaman Budaya <br />
                 Nusantara
               </h1>
