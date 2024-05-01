@@ -57,31 +57,33 @@ function Navbar() {
         </div>
       </div>
       <nav
-        className={`container transition-all lg:h-auto duration-500 lg:w-full lg:mx-auto justify-between fixed top-0 z-50 lg:flex-row flex-col lg:items-center p-10 lg:rounded-full w-[80%] h-full lg:bg-transparent bg-cusOrange bg-opacity-100 ${
+        className={` transition-all  duration-500 lg:w-full fixed top-0 z-50 w-[80%] lg:h-auto h-full lg:bg-transparent bg-cusOrange bg-opacity-100 ${
           isClick
             ? "flex rounded-md"
             : "lg:translate-x-0 flex lg:opacity-100 translate-x-[100vh] opacity-0"
         } backdrop-blur-sm `}
       >
-        <a href="/" className="text-[30px] font-primary lg:flex">
-          Budayantara
-        </a>
-        <ul className="flex lg:flex-row flex-col lg:gap-x-10 gap-y-10">
-          {navList.map((item) => (
-            <li
-              key={item.path}
-              className="lg:text-[30px] text-[40px]  font-primary"
-            >
-              <a href={item.path}>{item.name}</a>
-            </li>
-          ))}
-        </ul>
-        <a
-          href="#map-section"
-          className="text-[30px] font-primary bg-[#FFEC9E] flex flex-row items-center justify-center rounded-full"
-        >
-          <span className="px-7 py-2">Explore</span>
-        </a>
+        <div className="flex justify-between lg:flex-row flex-col lg:items-center p-10 container lg:h-auto lg:mx-auto lg:w-full w-[80%] ">
+          <a href="/" className="text-[30px] font-primary lg:flex">
+            Budayantara
+          </a>
+          <ul className="flex lg:flex-row flex-col lg:gap-x-10 gap-y-10">
+            {navList.map((item) => (
+              <li
+                key={item.path}
+                className="lg:text-[30px] text-[40px]  font-primary"
+              >
+                <a href={item.path}>{item.name}</a>
+              </li>
+            ))}
+          </ul>
+          <a
+            href="#map-section"
+            className="text-[30px] font-primary bg-[#FFEC9E] flex flex-row items-center justify-center rounded-full"
+          >
+            <span className="px-7 py-2">Explore</span>
+          </a>
+        </div>
       </nav>
     </header>
   );
